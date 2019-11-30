@@ -1080,6 +1080,15 @@
 								"sit": ""
 							}
 						]
+					},
+					{
+						"nom": "APIC 2",
+						"semestre": 2,
+						"coeff": 1,
+						"nb_heures": 4.5,
+						"resume": "Suite ou approfondissement des notions abordées au premier semestre",
+						"contenu": "",
+						"objectifs/situations": []
 					}
 				]
 			}
