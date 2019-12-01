@@ -418,59 +418,59 @@
 						"coeff": 4,
 						"nb_heures": 48,
 						"resume": "Ce module présente les lois générales de la cinématique et de la dynamique du point matériel. Son objectif est d’établir
-											 et d’utiliser les principes fondamentaux nécessaires à la description des mouvements que nous observons autour de nous.\n\n
-											 Pour chaque objectif d’apprentissage la méthodologie est toujours la même :\n
-											 - Mémoriser les nouvelles notions, les comprendre ensuite et les appliquer à bon escient.\n
-											 - Lister les hypothèses du problème après avoir lu l’énoncé.\n
-											 - Discriminer le problème posé entre un problème de cinématique du point et un problème de dynamique du point.\n
-											 - Reproduire la méthodologie de résolution d’exercice de physique appliqué à la cinématique du point ou à la dynamique du point.\n
-											 - Reconnaître puis identifier les pré-requis mathématiques utiles à la résolution analytiques des équations obtenues en utilisant
-											 les théorèmes fondamentaux de la mécanique.\n
-											 - Choisir l’outil adéquat et permis pour calculer numériquement le résultat ; calcul mental, calculatrice, Scilab.\n
-											 - Après la résolution interpréter et questionner les résultats obtenus.\n
-											 - Si besoin, estimer alors en justifiant les éventuelles erreurs commises lors de la résolution.\n
-											 - Prédire enfin le comportement futur du système.",
+et d’utiliser les principes fondamentaux nécessaires à la description des mouvements que nous observons autour de nous.\n\n
+Pour chaque objectif d’apprentissage la méthodologie est toujours la même :\n
+- Mémoriser les nouvelles notions, les comprendre ensuite et les appliquer à bon escient.\n
+- Lister les hypothèses du problème après avoir lu l’énoncé.\n
+- Discriminer le problème posé entre un problème de cinématique du point et un problème de dynamique du point.\n
+- Reproduire la méthodologie de résolution d’exercice de physique appliqué à la cinématique du point ou à la dynamique du point.\n
+- Reconnaître puis identifier les pré-requis mathématiques utiles à la résolution analytiques des équations obtenues en utilisant
+les théorèmes fondamentaux de la mécanique.\n
+- Choisir l’outil adéquat et permis pour calculer numériquement le résultat ; calcul mental, calculatrice, Scilab.\n
+- Après la résolution interpréter et questionner les résultats obtenus.\n
+- Si besoin, estimer alors en justifiant les éventuelles erreurs commises lors de la résolution.\n
+- Prédire enfin le comportement futur du système.",
 						"contenu": "Concept 1 : Se réperer dans l’espace\n
-												__1. Repérage dans l’espace et Cinématique du point\n
-												__2. Description du mouvement et référentiel\n
-												__3. Application à l’étude de quelques mouvements particuliers\n
-												__4. Changements de référentiels\n\n
-												Concept 2 : Décrire et quantifier un mouvement\n
-												__1. Définition des quantités cinématiques de base (position, vitesse et accelération).\n
-												__2. Définition des différents types de mouvement ; savoir les calculer et les reconnaitre.\n\n
-												Concept 3 : Utiliser l’approche énergétique pour le prévision d’un mouvement\n
-												__1. Définition et interprétation des 3 différentes énergies.\n
-												__2. Définition du travail et de la puissance.\n
-												__3. Téorèmes fondamentaux : énergie cinétique, énergie mécanique.\n
-												__4. Utilisation de l’énergie dans les problèmes de mécanique lorsque ces théorèmes facilitent les calculs qui pourraient
-												aussi être faits grâce à l’approche dynamique dans les cas suivants:\n
-												____a. mouvement sur la Terre,\n
-												____b. la chute libre,\n
-												____c. les mouvements oscillatoires,\n
-												____d. les mouvements des satellites.\n\n
-												Concept 4 : Relier les interactions mécaniques au déplacement\n
-												__1. Principes et théorèmes de la dynamique du point\n
-												__2. Référentiels galiléens et lois de Newton\n
-												__3. Théorèmes fondamentaux : principe fondamental de la dynamique et changements de référentiels, quantité de
-												mouvement, moment cinétique.\n
-												__4. Utilisation du PFD avec tout type de forces classiques (poids,réaction du support, frottements dur et fluide,
-												pseudo-forces, etc.) dans les cas suivants :\n
-												____a. mouvement sur la Terre,\n
-												____b. la chute libre en prenant en compte la rotation de la Terre.\n
-												____c. les mouvements oscillatoires,\n
-												______i. Oscillateur harmonique et oscillations libres : étude sans et avec amortissement du système masse-ressort et
-												analogies électromécaniques.\n
-												______ii. Oscillations forcées ou entretenues : exemple du système masse-ressort soumis à une excitation de forme
-												sinusoïdale et analogies électro-mécaniques, phénomène de résonance.\n
-												____d. Application à la trajectographie spatiale.\n
-												______i. Etude du mouvement des astres, planètes, étoiles, comètes, fusées, satellites\n
-												______ii. Exemple des trajectoires possibles d’un engin spatial lancé à partir de la Terre, vitesse de satellisation,
-												vitesse de libération, changement d’orbite, état d’apesanteur.\n\n
-												Il est aussi possible d’ordonner ce même contenu par thématique et non par concepts physiques, comme suit :\n
-												__1. Le repérage dans l’espace et la cinématique.\n
-												__2. La chute d’un corps.\n
-												__3. Les mouvements oscillatoires.\n
-												__4. La trajectographie spatiale.",
+	1. Repérage dans l’espace et Cinématique du point\n
+	2. Description du mouvement et référentiel\n
+	3. Application à l’étude de quelques mouvements particuliers\n
+	4. Changements de référentiels\n\n
+Concept 2 : Décrire et quantifier un mouvement\n
+	1. Définition des quantités cinématiques de base (position, vitesse et accelération).\n
+	2. Définition des différents types de mouvement ; savoir les calculer et les reconnaitre.\n\n
+Concept 3 : Utiliser l’approche énergétique pour le prévision d’un mouvement\n
+	1. Définition et interprétation des 3 différentes énergies.\n
+	2. Définition du travail et de la puissance.\n
+	3. Téorèmes fondamentaux : énergie cinétique, énergie mécanique.\n
+	4. Utilisation de l’énergie dans les problèmes de mécanique lorsque ces théorèmes facilitent les calculs qui pourraient
+aussi être faits grâce à l’approche dynamique dans les cas suivants:\n
+		a. mouvement sur la Terre,\n
+		b. la chute libre,\n
+		c. les mouvements oscillatoires,\n
+		d. les mouvements des satellites.\n\n
+Concept 4 : Relier les interactions mécaniques au déplacement\n
+	1. Principes et théorèmes de la dynamique du point\n
+	2. Référentiels galiléens et lois de Newton\n
+	3. Théorèmes fondamentaux : principe fondamental de la dynamique et changements de référentiels, quantité de
+mouvement, moment cinétique.\n
+	4. Utilisation du PFD avec tout type de forces classiques (poids,réaction du support, frottements dur et fluide,
+pseudo-forces, etc.) dans les cas suivants :\n
+		a. mouvement sur la Terre,\n
+		b. la chute libre en prenant en compte la rotation de la Terre.\n
+		c. les mouvements oscillatoires,\n
+			i. Oscillateur harmonique et oscillations libres : étude sans et avec amortissement du système masse-ressort et
+analogies électromécaniques.\n
+			ii. Oscillations forcées ou entretenues : exemple du système masse-ressort soumis à une excitation de forme
+sinusoïdale et analogies électro-mécaniques, phénomène de résonance.\n
+		d. Application à la trajectographie spatiale.\n
+			i. Etude du mouvement des astres, planètes, étoiles, comètes, fusées, satellites\n
+			ii. Exemple des trajectoires possibles d’un engin spatial lancé à partir de la Terre, vitesse de satellisation,
+vitesse de libération, changement d’orbite, état d’apesanteur.\n\n
+Il est aussi possible d’ordonner ce même contenu par thématique et non par concepts physiques, comme suit :\n
+	1. Le repérage dans l’espace et la cinématique.\n
+	2. La chute d’un corps.\n
+	3. Les mouvements oscillatoires.\n
+	4. La trajectographie spatiale.",
 						"objectifs/situations": [
 							{
 								"obj": "Se repérer dans l’espace au travers des systèmes de coordonnées usuels et y traduire les caractéristiques cinématiques
@@ -610,7 +610,7 @@
 												Reconnaitre les structures élémentaires sur un schéma électronique complet.\n
 												Analyser des filtres analogiques à partir de schéma ou diagrammes de Bode.\n
 												De concevoir des filtres analogiques à partir de cahier des charges."
-							}
+							},
 						]
 					},
 					{
