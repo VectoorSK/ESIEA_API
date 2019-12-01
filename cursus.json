@@ -389,8 +389,7 @@ Il est aussi possible d’ordonner ce même contenu par thématique et non par c
 						"semestre": 2,
 						"coeff": 3,
 						"nb_heures": 36,
-						"resume": "- Maîtrise (analyse et conception) des montages à base d'amplificateurs linéaires intégrés)\n
-											 - Introduction à la représentation fréquentielle des systèmes (approche fonction de transfert)",
+						"resume": "- Maîtrise (analyse et conception) des montages à base d'amplificateurs linéaires intégrés)\n- Introduction à la représentation fréquentielle des systèmes (approche fonction de transfert)",
 						"contenu": "Chapitre I. Amplificateur Linéaire Intégré\n	1. L’amplificateur Linéaire Intégré\n	2. Montages Linéaires\n	3. Montages Non Linéaires\n	4. Oscillateurs\nChapitre II. Le régime sinusoïdal\n	1. Notations complexes\n	2. Loi d’Ohm généralisée\nChapitre III. Fonction de transfert des circuits linéaires\n	1. Notion de filtrage\n	2. Fonction de transfert\n	3. Ordre d’un circuit\n	4. Fonction de transfert d’un circuit linéaire\n	5. Propriétés des fonctions de transfert\n	6. Nature des fonctions de transfert\n	7. Les diagrammes de Bode\nChapitre IV. Filtres analogiques\n	1. Filtre Passif du 1er ordre\n	2. Filtre Passif du 2nd ordre\n	3. Filtre Actif du 1er ordre\n	4. Filtre Atif du 2nd ordre",
 						"objectifs/situations": [
 							{
