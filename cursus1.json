@@ -11,7 +11,7 @@
 						"semestre": 1,
 						"coeff": 3,
 						"nb_heures": 60,
-						"repartition": [10, 10, 10, 10, 10, 10],
+						"repartition": [0, 27, 33, 0, 0, 0],
 						"resume": "Apprendre à argumenter en s'appuyant sur un raisonnement logique formalisé. Introduire les opérations ensemblistes de base, les notions de relations binaires et d’applications entre ensembles. Introduire les concepts de base du dénombrement, de l’abalyse combinatoire et des probabilités discrètes. Pratiquer l’arithmétique dans l’ensemble des entiers relatifs et dans l’ensemble des polynômes à coefficients dans R ou dans C.",
 						"contenu": "Raisonnements logiques, dénombrement, analyse combinatoire, lois discrètes usuelles.\n\nIntroduire les opérations ensemblistes de base, les notions de relation binaires, applications, arithmétique et polynômes.\n\n Des exemples concrets seront présentés pour illustrer et/ou modéliser certaines situations liées aux concepts présentés.",
 						"objectifs/situations": [
@@ -53,8 +53,8 @@
 						"nom": "Suites, fonctions d’une variable réelle et approximation",
 						"semestre": 1,
 						"coeff": 3,
-						"nb_heures": 52,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"nb_heures": 57,
+						"repartition": [0, 27, 30, 0, 0, 0],
 						"resume": "Introduire les outils mathématiques pour modéliser des phénomènes discrets ou continus.\n\nOn étudiera aussi quelques méthodes pour déterminer les solutions approchées d'équations et modéliseret résoudre certains problèmes d'optimisation",
 						"contenu": "- Inégalités dans R et valeur absolue d'un réel\n\n- Ensembles majorés, minorés, bornés, majorant, minorant, bornes supérieures et inférieures, éléments minimal, maximal\n\n- Suites numériques: suites extraites, suites convergentes, suites divergentes, suites majorées,minorées, bornées, suites monotones\n\n- Propriétés des suites monotones\n\n- Comparaison des suites, théorème du “gendarme”\n\n- Suites adjacentes, fonctions monotones, périodiques, paires, majorées, minorées, bornées\n\n- Définition de la continuité, continuité à droite et à gauche, opérations sur les fonctions continues\n\n- Théorème de la valeur intermédiaire, continuité et monotonie\n\n- Dérivabilité opérations sur les fonctions dérivables\n\n- Extremum Local, théorèmes de Rolle et des accroissements finis\n\n- Application à des problèmes d'optimisation\n\n- Suites récurrentes, monotonie d'une suite récurrente, point fixe\n\n- Localisation des zéros d'une fonction: Méthode de la Dichotomie, Méthode de la Sécante et estimation de l'erreur",
 						"objectifs/situations": [
@@ -77,7 +77,7 @@
 						"semestre": 1,
 						"coeff": 5,
 						"nb_heures": 72,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 18, 18, 36, 0, 0],
 						"resume": "L’objectif de ce module est l’apprentissage des bases de la programmation en C ainsi que les bases de l’algorithmique. L’étudiant doit être capable à la fin du module de rédiger un algorithme simple de résolution à un problème afin de l’implémenter en langage C. Les étudiants sont encouragés à acquérir de l’autonomie afin d’aller chercher l'information nécessaire à la réalisation d'une des tâches précédentes si l'élève ne la connaît pas. Les messages d'erreurs du compilateur doivent être compris afin de les utiliser pour corriger un programme. Enfin, les étudiants doivent être capables de dérouler et corriger des algorithmes et programmes simples.",
 						"contenu": "- Introduction au système Unix, ligne de commande.\n\n- Compilation sans Warning ni erreurs avec gcc, débogage avec gdb.\n\n- Types de base du C, représentation des données en machine, notions d’adresses et de pointeurs.\n\n- Structures de contrôle, fonctions, passages par valeur et par adresse.\n\n- Tableaux et matrices statiques et décalage d’adresse.\n\n- Algorithmes gloutons.\n\n- Algorithmes de tri quadratiques (bulles, insertion, sélection…)",
 						"objectifs/situations": [
@@ -124,7 +124,7 @@
 						"semestre": 1,
 						"coeff": 1,
 						"nb_heures": 12,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 0, 12, 0, 0],
 						"resume": "Ce module permet de renforcer les notions mathématiques de base et de développer l'agilité au calcul",
 						"contenu": "Ce module permet de renforcer les notions mathématiques de base et de développer l'agilité au calcul",
 						"objectifs/situations": [
@@ -151,7 +151,7 @@
 						"semestre": 2,
 						"coeff": 2.5,
 						"nb_heures": 54,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 27, 27, 0, 0, 0],
 						"resume": "Le module vise à acquérir les notions élémentaires relatives à l'algèbre linéaire, qui interviennent dans un grand nombre de domaines : transformations géométriques, problèmes d’optimisation, résolution de systèmes linéaires, calculs statistiques, théorie des graphes, etc. Il importe de maîtriser parfaitement les notions matricielles, dont notamment le vocabulaire lié aux matrices remarquables, une bonne pratique du calcul matriciel, la sensibilisation à la noncommutativité du produit. La méthode du pivot de Gauss est un outil essentiel qui permet de répondre à de nombreuses questions : calcul du rang, du déterminant et de l’inverse d’une matrice ; résolution d’un système linéaire. La description algorithmique de la méthode ainsi que son utilisation sont un objectif incontournable du module ; on pourra également envisager sa programmation. Les notions élémentaires sur les espaces vectoriels réels doivent être connues : le cas de l’espace R^n est incontournable, mais on présentera également des espaces de polynômes, des espaces de suites et de fonctions, des espaces de matrices. La notion d’application linéaire doit être travaillée en lien avec sa représentation matricielle dans une base donnée. Dès que possible, on veillera à apporter une interprétation géométrique à chacune des notions abordées.",
 						"contenu": "Calculs dans R^n : cas particuliers de R^2 et de R^3.\n\nNotion d'espace vectoriel réel : cas particulier de R^n.\n\nNotion de sous-espace vectoriel : cas particulier des sous-espaces vectoriels de R^n.\n\nÉquations cartésiennes et équations paramétriques d'un sous-espace vectoriel.\n\nFamilles de vecteurs : famille libre, famille liée, famille génératrice, base.\n\nCombinaison linéaire d'une famille de vecteurs, rang d'une famille de vecteurs.\n\nSous-espace vectoriel engendré par une famille de vecteurs, notation Vect.\n\nComposantes d'un vecteur dans une base donnée.\n\nDimension d'un espace vectoriel, dimension d'un sousespace vectoriel.\n\nOpérations sur les matrices : somme, multiplication externe, multiplication interne, puissances d'une matrice carrée, inverse d'une matrice carrée.\n\nDéterminant d'une matrice carrée : cas particulier des matrices d’ordre 2 et d’ordre 3.\n\nMéthode du pivot de Gauss : opérations élémentaires, aspect algorithmique, résolution de systèmes avec plusieurs seconds membres, calcul de l’inverse d’une matrice carrée.\n\nNotion de systèmes linéaires : systèmes homogènes et systèmes avec second membre, résolution par la méthode de substitution pour les systèmes simples\n\nÉtude de systèmes linéaires simples avec choix d'inconnues principales.\n\nInterprétation matricielle des systèmes linéaires.\n\nApplications linéaires entre deux espaces vectoriels réels : cas particulier des applications linéaires de R^p dans R^n.\n\nNoyau et image d'une application linéaire.\n\nThéorème du rang pour les applications linéaires.\n\nMatrice associée à une application linéaire dans des bases données.",
 						"objectifs/situations": [
@@ -182,7 +182,7 @@
 						"semestre": 2,
 						"coeff": 3,
 						"nb_heures": 60,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 27, 27, 6, 0, 0],
 						"resume": "On introduit dans ce module les notions qui permettent l'étude locale d'une fonction et on décrit le concept de l'intégrale utilisé dans le calcul d'une aire.",
 						"contenu": "On introduit dans ce module les notions qui permettent l'étude locale d'une fonction et on décrit le concept de l'intégrale utilisé dans le calcul d'une aire.",
 						"objectifs/situations": [
@@ -206,7 +206,7 @@
 						"semestre": 2,
 						"coeff": 1,
 						"nb_heures": 12,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 0, 12, 0, 0],
 						"resume": "- Renforcer les notions de base\n\n- Développer l'agilité au calcul\n\n- Développer le bon sens",
 						"contenu": "- Décomposition en éléments simples et application au calcul intégration\n\n- Intégration numérique: Méthodes de trapèzes et des rectangles",
 						"objectifs/situations": [
@@ -229,7 +229,7 @@
 						"semestre": 2,
 						"coeff": 4.5,
 						"nb_heures": 72,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 18, 18, 36, 0, 0],
 						"resume": "L’objectif de ce module est d’approfondir les acquis du premier semestre concernant l’algorithmique et la programmation en C. L'accent est donc mis sur les méthodes de conception d'algorithmes ainsi que leurs implémentations plutôt que de présenter un catalogue d'algorithmes. On présente de nombreux exemples illustrant les méthodes suivantes: diviser pour régner, programmation dynamique ou encore récursivité. D'autres notions de langage C comme l'allocation dynamique de mémoire ou le traitement de fichiers sont également étudiées. Tous les algorithmes sont programmés par les étudiants en C. L'objectif est de rendre l'étudiant créatif devant un problème.",
 						"contenu": "- Définition des parties d'un algorithme\n\n- Récursivité\n\n- Méthodes diviser pour régner\n\n- Programmation dynamique\n\n- Allocation dynamique de mémoire\n\n- Algorithmes : exponentiation rapide, tri rapide, problème du sac à dos\n\n- Langage C : structures, fichiers et représentation des données.",
 						"objectifs/situations": [
@@ -272,7 +272,7 @@
 						"semestre": 2,
 						"coeff": 1,
 						"nb_heures": 12,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 3, 0, 9, 0, 0],
 						"resume": "L’objectif de ce module est de poser les bases de la programmation en python.",
 						"contenu": "",
 						"objectifs/situations": []
@@ -288,7 +288,7 @@
 						"semestre": 1,
 						"coeff": 4,
 						"nb_heures": 48,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [48, 0, 0, 0, 0, 0],
 						"resume": "Ce module présente les lois générales de la cinématique et de la dynamique du point matériel. Son objectif est d’établir et d’utiliser les principes fondamentaux nécessaires à la description des mouvements que nous observons autour de nous.\n\nPour chaque objectif d’apprentissage la méthodologie est toujours la même :\n\n- Mémoriser les nouvelles notions, les comprendre ensuite et les appliquer à bon escient.\n\n- Lister les hypothèses du problème après avoir lu l’énoncé.\n\n- Discriminer le problème posé entre un problème de cinématique du point et un problème de dynamique du point.\n\n- Reproduire la méthodologie de résolution d’exercice de physique appliqué à la cinématique du point ou à la dynamique du point.\n\n- Reconnaître puis identifier les pré-requis mathématiques utiles à la résolution analytiques des équations obtenues en utilisant les théorèmes fondamentaux de la mécanique.\n\n- Choisir l’outil adéquat et permis pour calculer numériquement le résultat ; calcul mental, calculatrice, Scilab.\n\n- Après la résolution interpréter et questionner les résultats obtenus.\n\n- Si besoin, estimer alors en justifiant les éventuelles erreurs commises lors de la résolution.\n\n- Prédire enfin le comportement futur du système.",
 						"contenu": "Concept 1 : Se réperer dans l’espace\n\n	1. Repérage dans l’espace et Cinématique du point\n\n	2. Description du mouvement et référentiel\n\n	3. Application à l’étude de quelques mouvements particuliers\n\n	4. Changements de référentiels\n\n\nConcept 2 : Décrire et quantifier un mouvement\n\n	1. Définition des quantités cinématiques de base (position, vitesse et accelération).\n\n	2. Définition des différents types de mouvement ; savoir les calculer et les reconnaitre.\n\n\nConcept 3 : Utiliser l’approche énergétique pour le prévision d’un mouvement\n\n	1. Définition et interprétation des 3 différentes énergies.\n\n	2. Définition du travail et de la puissance.\n\n	3. Téorèmes fondamentaux : énergie cinétique, énergie mécanique.\n\n	4. Utilisation de l’énergie dans les problèmes de mécanique lorsque ces théorèmes facilitent les calculs qui pourraient aussi être faits grâce à l’approche dynamique dans les cas suivants:\n\n		a. mouvement sur la Terre,\n\n		b. la chute libre,\n\n		c. les mouvements oscillatoires,\n\n		d. les mouvements des satellites.\n\n\nConcept 4 : Relier les interactions mécaniques au déplacement\n\n	1. Principes et théorèmes de la dynamique du point\n\n	2. Référentiels galiléens et lois de Newton\n\n	3. Théorèmes fondamentaux : principe fondamental de la dynamique et changements de référentiels, quantité de mouvement, moment cinétique.\n\n	4. Utilisation du PFD avec tout type de forces classiques (poids,réaction du support, frottements dur et fluide, pseudo-forces, etc.) dans les cas suivants :\n\n		a. mouvement sur la Terre,\n\n		b. la chute libre en prenant en compte la rotation de la Terre.\n\n		c. les mouvements oscillatoires,\n\n			i. Oscillateur harmonique et oscillations libres : étude sans et avec amortissement du système masse-ressort et analogies électromécaniques.\n\n			ii. Oscillations forcées ou entretenues : exemple du système masse-ressort soumis à une excitation de forme sinusoïdale et analogies électro-mécaniques, phénomène de résonance.\n\n		d. Application à la trajectographie spatiale.\n\n			i. Etude du mouvement des astres, planètes, étoiles, comètes, fusées, satellites\n\n			ii. Exemple des trajectoires possibles d’un engin spatial lancé à partir de la Terre, vitesse de satellisation, vitesse de libération, changement d’orbite, état d’apesanteur.\n\n\nIl est aussi possible d’ordonner ce même contenu par thématique et non par concepts physiques, comme suit :\n\n	1. Le repérage dans l’espace et la cinématique.\n\n	2. La chute d’un corps.\n\n	3. Les mouvements oscillatoires.\n\n	4. La trajectographie spatiale.",
 						"objectifs/situations": [
@@ -311,7 +311,7 @@
 						"semestre": 1,
 						"coeff": 3,
 						"nb_heures": 42,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [42, 0, 0, 0, 0, 0],
 						"resume": "- Acquérir les notions de base en électronique analogique.\n\n- Savoir analyser un circuit électronique. Déterminer son rôle.",
 						"contenu": "Chapitre 1: Les lois générales de l’électrocinétique\n\n	1. Grandeurs électriques - Loi d’ohm\n\n	2. Dipôle électrique\n\n	3. Lois de Kirchhoff\n\n	4. Théorèmes de Thévenin et de Norton\n\n	5. Principe de superposition\n\n	6. Théorème de Millman\n\n\n\nChapitre 2: Les diodes\n\n	1. La diode redresseuse et son utilisation\n\n	2. La diode Zener et son utilisation\n\n\n\nChapitre 3: Les transistors bipolaires\n\n	1. Structure du transistor\n\n	2. Fonctionnement de base du transistor\n\n	3. Caractéristiques et paramètres du transistor\n\n	4. Le Transistor comme amplificateur\n\n	5. Le transistor comme interrupteur\n\n	6. Circuits de polarisation du transistor\n\n	7. Amplificateurs bipolaires à faibles signaux\n\n	8. Amplificateurs de puissance",
 						"objectifs/situations": [
@@ -330,7 +330,7 @@
 						"semestre": 1,
 						"coeff": 3,
 						"nb_heures": 36,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 0, 27, 9, 0],
 						"resume": "Ce module comporte deux parties distinctes :\n\n- Une initiation à la robotique basée sur le kit didactique LEGO Mindstorms\n\n- Des études, simulations et mesures sur les composants et montages électroniques de base.",
 						"contenu": "TP d’initiation à la robotique\n\n- Imaginer et réaliser un robot répondant à un cahier des charges donné.\n\n- Travailler en groupe et dans un temps limité.\n\n\n\nTP mesure et composants électroniques\n\n- Prise en main des appareils de mesure du laboratoire (oscilloscope, générateur basse fréquence, multimètre)\n\n- Prise en main d'un logiciel de simulation de circuits électronique (type SPICE).\n\n- Application des théorèmes de THEVENIN, de NORTON et de MILLMAN.\n\n- Diode à jonction : Redressement et filtrage.\n\n- Diode Zener.\n\n- LED.\n\n- Transistor NPN et PNP.\n\n- Régulateur de tension linéaire intégré.",
 						"objectifs/situations": [
@@ -357,7 +357,7 @@
 						"semestre": 2,
 						"coeff": 3,
 						"nb_heures": 36,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [36, 0, 0, 0, 0, 0],
 						"resume": "- Maîtrise (analyse et conception) des montages à base d'amplificateurs linéaires intégrés)\n\n- Introduction à la représentation fréquentielle des systèmes (approche fonction de transfert)",
 						"contenu": "Chapitre I. Amplificateur Linéaire Intégré\n\n	1. L’amplificateur Linéaire Intégré\n\n	2. Montages Linéaires\n\n	3. Montages Non Linéaires\n\n	4. Oscillateurs\n\nChapitre II. Le régime sinusoïdal\n\n	1. Notations complexes\n\n	2. Loi d’Ohm généralisée\n\nChapitre III. Fonction de transfert des circuits linéaires\n\n	1. Notion de filtrage\n\n	2. Fonction de transfert\n\n	3. Ordre d’un circuit\n\n	4. Fonction de transfert d’un circuit linéaire\n\n	5. Propriétés des fonctions de transfert\n\n	6. Nature des fonctions de transfert\n\n	7. Les diagrammes de Bode\n\nChapitre IV. Filtres analogiques\n\n	1. Filtre Passif du 1er ordre\n\n	2. Filtre Passif du 2nd ordre\n\n	3. Filtre Actif du 1er ordre\n\n	4. Filtre Atif du 2nd ordre",
 						"objectifs/situations": [
@@ -372,7 +372,7 @@
 						"semestre": 2,
 						"coeff": 2,
 						"nb_heures": 27,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 0, 12, 15, 0],
 						"resume": "Etude de l'amplificateur opérationnel (A.O.) et application des notions fondamentales des circuits électriques à la mesure des caractéristiques et à l'analyse des circuits utilisant des A.O. tels que amplificateur de tension, de courant, inverseur, non inverseur, suiveur, sommateur, intégrateur, dérivateur, filtre, comparateur, etc.",
 						"contenu": "Partie projet : les élèves réalisent une carte électronique complète en partant du routage ( ex: amplificateur audio , electromyographe, ...)\n\n\n\nPartie TP : Amplificateur opérationnel\n\n- Etude des montages, suiveur de tension, sommateur et soustracteur.\n\n- Etude, du montage dérivateur (filtre passe haut du 1er ordre), du comparateur et du Trigger de Schmitt.\n\n- Etude, du montage intégrateur (filtre passe bas du 1er ordre), d'un multivibrateur astable et d'un générateur de signaux sinusoîdaux.",
 						"objectifs/situations": [
@@ -387,7 +387,7 @@
 						"semestre": 2,
 						"coeff": 2,
 						"nb_heures": 24,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 0, 0, 24, 0],
 						"resume": "Ce module propose une mise en situation mobilisant les matières scientifiques (Mathématiques, Physique, Electronique, Informatique) dans le cadre d’une démarche projet",
 						"contenu": "Le thème de l’année est « Lanceur de projectiles».\n\nLes étudiants par groupe, vont calculer, simuler, tester la trajectoire d'un projectile.\n\nIl réaliseront un montage permettant de tester leur modélisation.\n\nIls assisteront au lancer « grandeur nature » de leur réalisation lors d’un évènement organisé en mai.",
 						"objectifs/situations": [
@@ -410,7 +410,7 @@
 						"semestre": 2,
 						"coeff": 3,
 						"nb_heures": 36,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [36, 0, 0, 0, 0, 0],
 						"resume": "Ce module aborde les bases de l'Electromagnétisme en régime permanent (électrostatique et Magnétostatique) et en régime lentement variable (Induction électromagnétique) au travers de l’étude des composants analogiques de base de l’électronique que sont le condensateur, la résistance et l’inductance. L’accent est mis sur les phénomènes physiques – champ électrique, champ magnétique, effet Joule - dont ils sont le siège.\n\nPour chaque objectif d’apprentissage la méthodologie est toujours la même :\n\n- Mémoriser les nouvelles notions, les comprendre ensuite et les appliquer à bon escient.\n\n- Lister les hypothèses du problème après avoir lu l’énoncé.\n\n- Discriminer le problème posé entre un problème d’électrostatique et un problème de magnétostatique.\n\n- Reproduire la méthodologie de résolution d’exercice de physique appliqué à l’électrostatique ou à la magnétostatique.\n\n- Reconnaître puis identifier les prérequis mathématiques utiles à la résolution analytiques des équations obtenues en utilisant les théorèmes fondamentaux de l’électromagnétostatique.\n\n- Choisir l’outil adéquat et permis pour calculer numériquement le résultat ; calcul mental, calculatrice, Scilab.\n\n- Après la résolution interpréter et questionner les résultats obtenus.\n\n- Si besoin, estimer alors en justifiant les éventuelles erreurs commises lors de la résolution.\n\n- Prédire enfin le comportement futur du système.",
 						"contenu": "Thème 1. Le condensateur\n\n	1. Étude pratique d’un condensateur.\n\n	2. Principe et comportement d’un condensateur dans un circuit électrique.\n\n	3. Caractéristiques et technologie des condensateurs.\n\n	4. Étude théorique d’un condensateur.\n\n	5. Calcul du champ électrostatique par calcul direct et théorème de Gauss.\n\n	6. Calcul du potentiel par les opérateurs et énergie électrostatique.\n\n	7. Conducteurs en équilibre électrostatique.\n\n	8. Condensateurs.\n\n	9. Applications à d’autres distributions.\n\n	10. Approfondissement: le dipôle électrostatique\n\n	11. Potentiel et champ créés à grande distance par un dipôle.\n\n	12. Action d'un champ électrostatique extérieur sur un dipôle.\n\n	13. Approximation dipolaire du potentiel.\n\n\n\nThème 2. La résistance\n\n	1. Étude pratique d’une résistance.\n\n	2. Principe et comportement d’une résistance dans un circuit électrique.\n\n	3. Caractéristiques et technologie des résistances.\n\n	4. Etude théorique de la résistance.\n\n	5. Caractérisation d’un courant électrique.\n\n	6. Loi d'Ohm. Résistivité.\n\n	7. Applications.\n\n\n\nThème 3. L’inductance\n\n	1. Étude pratique d’une inductance.\n\n	2. Principe et comportement d’une inductance dans un circuit électrique.\n\n	3. Caractéristiques et technologie des inductances.\n\n	4. Étude théorique d’une inductance.\n\n	5. Champ magnétostatique.\n\n	6. Electrodynamique des régimes stationnaires.\n\n	7. Phénomène d'induction électromagnétique.\n\n	8. Énergie potentielle magnétostatique d'un système de courant.\n\n	9. Applications (systèmes électromécaniques : hautparleur, moteur, transformateur).\n\n	10. Approfondissement en magnétostatique : le dipôle magnétique.\n\n	11. Définition du moment magnétique d’un circuit.\n\n	12. Couple agissant sur le circuit sous l’action d’un champ extérieur B:\n\n		a. Énergie potentielle du dipôle dans un champ extérieur B\n\n		b. Champ d’un dipôle magnétique",
 						"objectifs/situations": [
@@ -445,7 +445,7 @@
 						"semestre": 1,
 						"coeff": 2,
 						"nb_heures": 21,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 6, 0, 15, 0],
 						"resume": "Lancer un projet de formation humaine (responsable et citoyen, ancré dans le réel et le possible, idéaliste, rationnel, humaniste). Lancer un projet d'étude, de recherche de l'information, documentaire ou de terrain autour d'un sujet imposé.",
 						"contenu": "- Initiation à la conduite de projet (lancer, réaliser, transmettre)\n\n- Apprendre à formuler une problématique, à se donner des objectifs, à élaborer un plan de recherche...\n\n- Apprendre à analyser une situation (externe et interne)\n\n- Apprendre à réaliser une étude, à rechercher l'information\n\n- Rédiger un rapport\n\n- Organiser des réunions\n\n- Organiser un suivi, le partage de l'information",
 						"objectifs/situations": [
@@ -460,7 +460,7 @@
 						"semestre": 1,
 						"coeff": 3,
 						"nb_heures": 27,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 27, 0, 0, 0],
 						"resume": "Les modules de techniques d’expression permettent d’acquérir et de développer les compétences de communication indispensables à tout ingénieur ;\n\nDe consolider la pratique de la langue française et découvrir des méthodes pour apprendre à rédiger, et à présenter oralement devant un public, participer à des entretiens et animer des réunions.",
 						"contenu": "- Langues et langages : donner à l'étudiant des outils pour qu'il évalue de lui même ses compétences en matière d'orthographe, de grammaire, de syntaxe... et lui permettre de s'améliorer ; lui apprendre à lire un texte et à le résumer ; approche de la synthèse de textes (articles de journaux...) et de documents.\n\n- Méthodologie : initier l'étudiant à la rédaction d'un rapport de recherche (technique,scientifique, de formation humaine...)\n\n- Créativité, connaissance et conceptualisation : permettre à l'étudiant d'explorer différentes manières d'écrire et de penser (exploration de savoirs non scientifiques, textes littéraires...) ; lui permettre de libérer et de maîtriser sa créativité par l'écriture (écriture de poèmes, de nouvelles...) ; lui permettre de conceptualiser et d'inventer à partir d'un contexte et d'un champs de connaissance (écrire à partir d'une thématique ; formuler une problématique et y répondre en rédigeant un document original, en créant une forme nouvelle...)...\n\n- Mise en relief des trois moyens d'expression orale : Expression physique ou attitude, expression vocale ou voix, expression verbale ou langage.\n\nA travers l'analyse de présentations individuelles, l'étudiant est invité à prendre conscience des 'vrais' et 'faux' le concernant dans le domaine de l’expression orale ainsi que de ses qualités et difficultés personnelles.\n\n- Quatre directions d'amélioration : Eclairer, Intéresser, s'Ouvrir, s'Affirmer\n\nProposition de quatre voies d'amélioration pour chacun des trois moyens d'expression. Mise en pratique à travers des exercices de créativité.\n\nEtablissement et utilisation de grilles d'analyse.",
 						"objectifs/situations": [
@@ -511,7 +511,7 @@
 						"semestre": 1,
 						"coeff": 2,
 						"nb_heures": 21,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 21, 0, 0, 0],
 						"resume": "Introduction to methods of learning English and expectations within the framework of higher education, focusing on the tools and methods of autonomous lifelong language learning.\n\nReview and introduction of new notions regarding the English language (verb tenses, work on clear pronunciation,…). Giving students a first experience of public speaking in English.\n\nAcquisition of TOEIC language: Can easily recognize language structures and vocabulary frequently used in the TOEIC. ",
 						"contenu": "Presentation of the different parts of the TOEIC.\n\nTest-taking strategies for the TOEIC\n\nWork on language of TOEIC\n\nPronunciation work on specific phonemes that are problematic for native speakers of French\n\nSystematic revision of grammatical structures that are problematic for native speakers of French\n\nPresentation and exploration of language-learning tools (learner’s dictionary, websites for language learners…)",
 						"objectifs/situations": [
@@ -542,7 +542,7 @@
 						"semestre": 1,
 						"coeff": 0,
 						"nb_heures": 15,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 15, 0, 0, 0],
 						"resume": "Langues : Allemand - Chinois - Espagnol - Japonais - Italien\n\n\n\n- Acquérir les compétences communicatives et interculturelles dans la langue choisie\n\n- Préparer des tests de niveau certifiants (TOEIC, Goethe Zertifikat, Cervantes, …)\n\n- Acquérir un niveau de maîtrise des structures grammaticales de la langue choisie permettant une communication simple mais non ambiguë",
 						"contenu": "A la discrétion de l’enseignant. Peut inclure :\n\n- Etude de textes d’actualité\n\n- Ecoute d’enregistrements audiovisuels\n\n- Expression orale sur des sujets personnels ou professionnels\n\n- Expression écrite sur des sujets personnels ou professionnels\n\n- Exercices de grammaire\n\n- Apprentissage de vocabulaire\n\n- Présentation d’exposés\n\n- Expression interactive/ débats",
 						"objectifs/situations": [
@@ -569,7 +569,7 @@
 						"semestre": 1,
 						"coeff": 1,
 						"nb_heures": 4.5,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 4.5, 0, 0, 0, 0],
 						"resume": "L’époque où l’ingénieur n’était qu’un très bon spécialiste technique est révolue. Désormais, pour réussir son parcours professionnel il doit également être un 'Homme de communication'.\n\n\n\nAu cours de votre vie étudiante et professionnelle, vous serez amené à exercer vos talents de communicant. Que ce soit pour valoriser un projet associatif, convaincre un jury, faire un exposé devant vos professeurs, décrocher un stage puis un emploi, mener à bien une mission professionnelle, etc.\n\n\n\nVous aurez besoin de communiquer et d’être capable:\n\n- De promouvoir une idée, une réalisation ou un produit ;\n\n- De travailler en équipe, d’argumenter, de négocier pour arriver à un accord ;\n\n- D’informer et convaincre de multiples interlocuteurs dont certains, étrangers à votre univers et sa technicité.\n\n\n\nL'APIC (Actions de Promotion Information et Communication) est un des modules vous permettant de mieux communiquer. Il se fixe un triple objectif.\n\n1. Donner une vision d’ensemble, à la fois théorique et fonctionnelle des aspects liés à la communication persuasive, interpersonnelle et stratégique : construire un message et le délivrer au bon moment, renforcer son argumentation et savoir l’adapter à ses interlocuteurs pour un démultiplier l’impact.\n\n2. Mettre en pratique les connaissances acquises afin de contribuer à la notoriété et à la réputation de l’école lors des manifestations organisées par le service communication.\n\n3. Aider par des conseils pratiques, à la valorisation des actions des différentes associations de l’école et des projets pédagogiques réalisés par les étudiants (scientifiques ou de formation humaine).",
 						"contenu": "Notions abordées :\n\n- Approche théorique des techniques de communication.\n\n- Principes de base de la Programmation Neurolinguistique.\n\n- Modèle de la probabilité d’élaboration, pyramide de Maslow, théorie cognitiviste, les voies de la perception (émotionnelle et rationnelle).\n\n- Principes fondamentaux, méthodes et procédés de la rhétorique et de la communication persuasive : construction du discours rhétorique, facteurs qui augmentent la crédibilité, principes de formulation, lois de l’influence, etc.\n\n- La dimension non verbale de la communication : attitude, langage corporel et synchronisation.\n\n- Conseils pratiques et facteurs généraux intervenant dans les situations de communication d’un « esiearque ».\n\n\n\nEvaluation semestrielle : l’évaluation sera à la fois quantitative et qualitative (bonus/malus).\n\n- Assiduité et participation en cours (20%)\n\n- Actions de communication (80%)\n\n\n\nChaque étudiant devra réaliser au moins une action de communication par semestre au service de son école lui permettant de mettre en pratique les techniques et conseils donnés:\n\n- Présence au forum d’orientation de son lycée ou d’un lycée proche de son établissement ;\n\n- Intervention en classe dans un établissement scolaire pour présenter le métier d’ingénieur;\n\n- Participation aux journées portes ouvertes ou journées de concours ;\n\n- Participation active à l’un des salons ou l’école sera présente ;\n\n- Rédaction d’articles (correspondant communication), reportage photo ou vidéo, participation à la web team de l’école ;\n\n- Aide à l’organisation de tout événement engageant l’image de l’école organisé par la Direction de la Communication.",
 						"objectifs/situations": []
@@ -579,7 +579,7 @@
 						"semestre": 2,
 						"coeff": 2,
 						"nb_heures": 21,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 0, 0, 21, 0],
 						"resume": "Réaliser son projet et présenter son travail de recherche sous la forme d'un rapport original, dans le cadre d'une soutenance devant un jury et dans le cadre du salon des projets de formation humaine.",
 						"contenu": "Cette activité permet de développer sa curiosité, son sens critique, de s’entraîner aux méthodes du travail de groupe, de la prise de notes et du rapport écrit, d’acquérir de l’assurance dans des situations de prise de parole devant un public.",
 						"objectifs/situations": [
@@ -598,7 +598,7 @@
 						"semestre": 2,
 						"coeff": 3,
 						"nb_heures": 28.5,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 28.5, 0, 0, 0],
 						"resume": "Les modules de techniques d’expression vous permettront d’acquérir et de développer les compétences de communication indispensables à tout ingénieur.\n\nVous consoliderez la pratique de la langue française et vous découvrirez des méthodes pour apprendre à rédiger, et réussir vos présentations orales devant un public, pour participer à des entretiens et pour animer des réunions.\n\nInitiation aux techniques de base de la communication écrite, aussi bien dans la transmission - rédaction et conception de supports visuels - que dans la réception – lecture - de l'information.",
 						"contenu": "Approches de la communication écrite\n\n- Autoportrait et CV\n\n- La lettre\n\n- Approche de l'écriture journalistique\n\n- Entraînement au rapport écrit\n\n- Techniques de rédaction de messages courts",
 						"objectifs/situations": [
@@ -637,7 +637,7 @@
 						"semestre": 2,
 						"coeff": 2,
 						"nb_heures": 21,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 0, 21, 0, 0, 0],
 						"resume": "Providing students a cognitive model for the use of television series, films and other media to improve language competency. Introduction to and acquisition of the vocabulary surrounding the entertainment industry. Listening and reading practice: exposure to sophisticated texts containing rich, descriptive language and value judgments. Speaking and writing practice: expressing opinions, brief presentations. Pronunciation practice, recalling and strengthening notions seen in LAN1081AN.",
 						"contenu": "Vocabulary of the entertainment industry: presentation and practice\n\nWork on extracts from films and television series\n\nReading film reviews or other texts from the print media\n\nPractice of speaking skills for explaining and describing generally and in detail.\n\nPractice of clear pronunciation\n\nPractice of writing skills for explaining and describing generally and in detail",
 						"objectifs/situations": [
@@ -668,7 +668,7 @@
 						"semestre": 2,
 						"coeff": 1,
 						"nb_heures": 4.5,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [0, 4.5, 0, 0, 0, 0],
 						"resume": "Suite ou approfondissement des notions abordées au premier semestre",
 						"contenu": "",
 						"objectifs/situations": []
