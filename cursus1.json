@@ -931,117 +931,120 @@
 				"ratio": 31,
 				"matières": [
 					{
-						"nom": "Électronique numérique",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nom": "Propagation et Ondes",
+						"semestre": 1,
+						"coeff": 4,
+						"nb_heures": 54,
+						"repartition": [0, 45, 9, 0, 0, 0],
+						"resume": "Toute onde est associée à une vibration, une oscillation qui se transmet de proche en proche. En commençant par l’étude des oscillations dans des systèmes mécaniques et électriques simples, puis dans des systèmes couplés plus élaborés, l’objectif de ce module est de présenter sur des exemples variés, une description de base des oscillations indépendamment de tout système physique, d’expliquer la façon dont elles évoluent en fonction des paramètres qui les contraignent, pour aboutir à une description commune donc plus générale des phénomènes de propagation d’ondes et de leurs propriétés.",
+						"contenu": "1. Espace, Temps et Description locale\n\n- Introduction aux phénomènes ondulatoires : ondes, couplage espace-temps, espace et longueur d’onde, temps et fréquence.\n\n- Concept de champ et description locale : repérage et systèmes de coordonnées 3D, l’outil mathématique champ et les opérateurs différentiels, les équations locales des champs à circulation ou à flux conservatifs, champs de gradient, champs de rotationnel.\n\n- Transport de l’énergie par les ondes : énergie mécanique totale d’un système physique, énergie cinétique, énergie potentielle, autres formes d’énergie et chaîne de transformation, transport d’énergie et répartition locale.\n\n\n2. Oscillateurs et Ondes\n\n- Le modèle harmonique de l’oscillateur à 1 dimension : rappels (qu’est-ce qu’un oscillateur ? définition, caractéristiques et exemples), équation différentielle du mouvement et solution générale, représentation dans l’espace des phases et aspect énergétique.\n\n- Oscillations libres et forcées d’un système dissipatif : modèles d’oscillateurs amortis mécaniques et électriques, les différents régimes d’oscillations libres amorties, dissipation d’énergie et facteur de qualité, forçage et résonance d’un oscillateur amorti.\n\n- Le couplage d’oscillateurs, des oscillations aux ondes : exemple du couplage entre 2 oscillateurs, détermination des modes propres, phénomène de battements, oscillations libres et forcées d’un système couplé de N oscillateurs, comportement de la chaîne, première approche du phénomène de propagation.\n\n\n3. Propagation des ondes : concept d’onde et modélisation\n\n- Le phénomène de propagation et l’équation d’onde : propagation dans la chaîne d’oscillateurs et approximation des milieux continus, équation d’onde (équation de d’Alembert) à 1 dimension et solution générale (fonction d’onde progressive plane), généralisation à 3 dimensions, autres solutions, et exemples d’ondes (ondes mécaniques, ondes sonores, ondes de courant, ondes de chaleur, ondes de matière).\n\n- L’analyse harmonique de la propagation et son intérêt : l’outil opps (onde progressive plane sinusoïdale), ses caractéristiques (double périodicité, fronts d’onde, vitesse de phase), équation de dispersion et analyse d’un phénomène de propagation.\n\n- La superposition d’ondes et les interférences : superposition d’ondes de mêmes fréquences, notion de paquet d’ondes et vitesse de groupe, application à la transmission d’une information et signaux transportés par une modulation.\n\n\n4. Les ondes électromagnétiques\n\n- Retour sur les lois de l’Electromagnétisme (Electrostatique, Magnétostatique et induction électromagnétique).\n\n- La description locale du champ électromagnétique variable : équations de Maxwell et contenu physique, conditions aux limites, compréhension intuitive du phénomène de propagation et équation d’onde électromagnétique.\n\n- La propagation des ondes électromagnétiques dans le vide : équation de d’Alembert et onde électromagnétique progressive plane sinusoïdale. Structure transversale, plans d’onde, vitesse de phase, périodicités spatiale et temporelle, relation de dispersion du vide, polarisation et applications à la lumière.\n\n- La propagation de l’énergie électromagnétique : vecteur de Poynting et puissance rayonnée par une oepps, densité d’énergie, bilan énergétique local et théorème de Poynting, vitesse de propagation de l’énergie, équirépartition des densités d’énergie.",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
+								"obj": "Définir le concept de propagation d’une quantité physique et énoncer les différents types d’équations de propagation d’une onde\n\nModéliser un mouvement oscillatoire à partir des lois de la Mécanique.\n\nEnumérer les lois de l’Electromagnétisme et les utiliser pour la caractérisation d’une onde électromagnétique",
+								"sit": "Décrire le comportement temporel et fréquentiel d’un système oscillant (amplitude, fréquence, période, résonance...).\n\nEtudier le couplage de systèmes mécaniques (chaine de ressorts, pendules couplés…)\n\nTransposer un système mécanique oscillant en système électromagnétique (analogie électromécanique)\n\nEtudier quelques cas concrets d’ondes longitudinales (ressort, son…) ou transversales (cordes)\n\nPrévoir le comportement d’un signal électrique dans une ligne de transmission.\n\nInterpréter la relation de dispersion pour un phénomène de propagation.\n\nEtudier les propriétés d’une onde électromagnétique (direction de propagation, polarisation, énergie transportée…)"
 							}
 						]
 					},
 					{
-						"nom": "Production, propagation et transmission des ondes et des signaux",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nom": "Electronique numérique",
+						"semestre": 1,
+						"coeff": 3,
+						"nb_heures": 33,
+						"repartition": [33, 0, 0, 0, 0, 0],
+						"resume": "Comprendre les bases de la logique binaire et séquentielle.",
+						"contenu": "- Introduction aux concepts numériques\n\n- Numération\n\n- Portes logiques\n\n- Algèbre booléenne et simplification logique\n\n- Logique combinatoire\n\n- Introduction à la logique programmable\n\n- Bascules\n\n- Compteurs\n\n- Registres à décalage",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							}
-						]
-					},
-					{
-						"nom": "Systèmes",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
-						"objectifs/situations": [
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
+								"obj": "Analyser et concevoir des systèmes élémentaires à base de composants numériques.",
+								"sit": "Analyser et schématiser des fonctions combinatoires (codeurs, décodeurs, multiplexeurs,…).\n\nAnalyser et schématiser des fonctions séquentielles (bascules, compteurs et décompteurs).\n\nStructurer un système numérique séquentiel d’un niveau de complexité faible."
 							}
 						]
 					},
 					{
 						"nom": "Projet robotique et techniques numériques",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"semestre": 1,
+						"coeff": 3,
+						"nb_heures": 27,
+						"repartition": [0, 0, 0, 18, 9, 0],
+						"resume": "- Utiliser un langage de programmation pour réaliser l'asservissement d'un robot\n- Savoir réaliser un système logique basé sur des fonctions combinatoires et séquentielles",
+						"contenu": "Projet robotique :\n\n- Programmation d'un robot lego Mindstorm avec le langage C, dans le respect d'un cahier des charges,\n\n- Compétition finale entre équipes à l'image de la coupe de France de robotique.\n\n\nTP techniques numériques :\n\n- Utilisation des opérateurs logiques élémentaires\n\n- Réalisation d’additionneurs et de soustracteurs\n\n- Etude des bascules RS, RST, D et JK\n\n- Réalisation de compteurs synchrones et asynchrones\n\n- Etude et réalisation d'une horloge",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
+								"obj": "Concevoir et développer des structures élémentaires en utilisant un circuit de logique programmable (FPGA) à partir de schémas blocs.",
+								"sit": "Analyser et schématiser des fonctions combinatoires (codeurs, décodeurs, multiplexeurs,…).\n\nAnalyser et schématiser des fonctions séquentielles (bascules, compteurs et décompteurs).\n\nStructurer un système numérique séquentiel d’un niveau de complexité faible."
 							}
 						]
 					},
 					{
-						"nom": "Projet Scientifique et Technique : réalisation",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nom": "Systèmes",
+						"semestre": 2,
+						"coeff": 2,
+						"nb_heures": 36,
+						"repartition": [0, 27, 0, 9, 0, 0],
+						"resume": "- Savoir analyser un système ou un cahier des charges afin de le modéliser et le réaliser -> utilisation de différentes méthodes (graphes d'états , réseaux de PETRI, grafcet)\n\nIntroduction aux systèmes à microprocesseurs.\n- Savoir analyser l’architecture d’un système minimal.",
+						"contenu": "- Analyse et synthèse des systèmes à événements discrets\n\n- Machines de Moore, Mealy\n\n- Réseaux de Pétri\n\n- Notion de bus\n\n- Mémoires vives, mémoires mortes\n\n- Conversion Analogique Numérique\n\n- Conversion Numérique Analogique\n\n- Introduction aux systèmes microprogrammés\n\n- Interfaçage",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Analyser puis réaliser des modélisations de systèmes dans différents formalismes.",
+								"sit": "De modéliser des systèmes électroniques par graphes d’états.\n\nDe comprendre des cahiers des charges pour produire une modélisation simple
+"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Analyser l’architecture d’un système à base de microprocesseurs",
+								"sit": "Analyser et reconnaître l’architecture d’un système à microprocesseur.\n\nUtiliser les documentations techniques de mémoires.\n\nComprendre les mécanismes de conversions analogiques / numériques"
+							}
+						]
+					},
+					{
+						"nom": "Projet Techniques Analogiques",
+						"semestre": 2,
+						"coeff": 2,
+						"nb_heures": 24,
+						"repartition": [0, 0, 0, 12, 12, 0],
+						"resume": "Concevoir et réaliser un système basé sur des fonctions numériques et analogiques",
+						"contenu": "Imaginer, concevoir et réaliser un système logique complexe, utilisant des fonctions logiques combinatoires, séquentielles, des mémoires et des fonctions analogiques",
+						"objectifs/situations": [
+							{
+								"obj": "Concevoir et développer une application en utilisant un circuit de logique programmable (FPGA) à partir de schémas blocs.",
+								"sit": "Analyser l’architecture d’une solution comportant au moins une mémoire et un composant d’interface analogique-numérique ou numérique-analogique.\n\nSchématiser chaque sous fonction.\n\nRésoudre les problèmes de fonctionnement.\n\nStructurer un système numérique séquentiel d’un niveau de complexité moyen."
+							}
+						]
+					},
+					{
+						"nom": "Production et transmission des ondes et des signaux",
+						"semestre": 2,
+						"coeff": 3,
+						"nb_heures": 54,
+						"repartition": [0, 45, 9, 0, 0, 0],
+						"resume": "Ce module présente l’étude des phénomènes physiques liés à la propagation des ondes et des signaux dans les médias de communication électrique et optique.\n\nSon objectif est de fournir les bases indispensables à la compréhension des phénomènes de propagation libre et guidée. Il en présente les très nombreuses et très importantes applications technologiques en particulier pour les télécommunications tant terrestres que spatiales.",
+						"contenu": "1. Production et réception des ondes électromagnétiques : application aux antennes.\n\n- Ondes électromagnétiques (Rappels) : fréquences et longueurs d’onde des ondes électromagnétiques, différents types de sources et leur mode d’émission, exemples de capteurs d’ondes électromagnétiques.\n\n- Notions sur le rayonnement d’ondes électromagnétiques : rayonnement dipolaire électrique, champ rayonné, énergie électromagnétique et puissance rayonnées, diagramme de rayonnement.\n\n- Introduction aux antennes : comment générer ou recevoir des ondes électromagnétiques, principe de fonctionnement d’une antenne en émission et réception.\n\n- Application à l’étude du rayonnement des antennes pour les télécommunications (radio émettrices, télévision par satellite, téléphones portables, WiFi).\n\n\n2. Propagation des ondes électromagnétiques en espace libre.\n\n- Ondes électromagnétiques progressives planes sinusoïdales dans le vide : rappels des caractéristiques de propagation, polarisation et grandeurs énergétiques.\n\n- Notions sur l’électromagnétisme des milieux : polarisation et aimantation, équations de Maxwell dans la matière, application aux milieux linéaires, homogènes et isotropes.\n\n- Possibilités de propagation dans un milieu LHI illimité : analyse harmonique, équation de dispersion, phénomènes d’absorption et de dispersion, vitesse de groupe et propagation de l’énergie\n\n- Applications : à l’étude de l’absorption d’un signal dans un bon conducteur (effet de peau), à l’étude de la dispersion d’un signal dans un plasma (exemple du plasma ionosphérique), à l’étude du phénomène de diffusion (exemple de la diffusion Rayleigh atmosphérique).\n\n\n3. Réflexion et Transmission des ondes électromagnétiques, influence des conditions aux limites\n\n- Ondes et conducteurs métalliques : la réflexion sur un métal parfait, conditions aux limites, onde incidente et onde réfléchie, pression de radiation.\n\n- Etude de la réflexion normale (ondes stationnaires et modes de résonance d’une cavité) et étude de la réflexion oblique ( ondes guidées et modes de propagation d’un guide d’ondes)\n\n- Ondes et milieux diélectriques : conditions aux limites, réflexion et réfraction, lois de Descartes, passage à l’Optique géométrique, exemple des ondes lumineuses\n\n- Application aux télécommunications terrestres ou spatiales : étude de situations concrètes en espace libre, par lignes ou guides d’ondes métalliques, par fibres optiques.\n\n\n4. D’autres aspects des phénomènes ondulatoires\n\n- Superposition constructive ou destructive d’ondes et phénomènes d’interférences et de diffraction.\n\n- Systèmes interférentiels par division du front d’onde, par division d’amplitude et réseaux.\n\n- Application à l’étude d’interférences lumineuses (phénomène d’ irisation, décomposition de la lumière par un CD), d’interférences d’ondes radio (ondes parasites, fading, anti-bruit), des réseaux optiques ou des réseaux d’antennes.\n\n- Le phénomène de diffraction par un obstacle ou un diaphragme, interférences et diffraction.\n\n- Application à l’étude de l’holographie et de la vélocimétrie Laser\n\n- Doppler.",
+						"objectifs/situations": [
+							{
+								"obj": "Enumérer les propriétés d’une onde électromagnétique.\n\nEtudier la propagation d’une onde électromagnétique dans le vide et dans un milieu matériel.\n\nDécrire le comportement d’une onde guidée.\n\nDégager les relations de l’optique géométrique et physique des lois générales de l’Electromagnétisme.",
+								"sit": "Décrire une onde électromagnétique se propageant dans le vide (direction de propagation, polarisation, vecteur d’onde..).\n\nModéliser un signal électromagnétique sous la forme d’ondes planes (décomposition spectrale).\n\nSchématiser un milieu matériel vu par une onde électromagnétique en termes d’interaction matière rayonnement (milieu conducteur, diélectrique, plasma...)\n\nInterpréter la relation de dispersion d’une onde électromagnétique dans des milieux matériels simples.\n\nEtudier la réflexion d’une onde sur un plan métallique (miroir, guide d’onde, cavité résonante).\n\nPrévoir le résultat de la composition de plusieurs ondes électromagnétiques (interférences, diffraction)."
+							}
+						]
+					},
+					{
+						"nom": "Projet Scientifique et Techniques : Réalisation",
+						"semestre": 2,
+						"coeff": 3,
+						"nb_heures": 42,
+						"repartition": [0, 0, 9, 0, 42, 0],
+						"resume": "Mobiliser des connaissances entre les différentes disciplines.\n\nConcevoir un système simple : Définir, Modéliser, Simuler/tester, Valider le modèle sur un prototype, Expliquer le modèle, Comparer avec le réalisé, Proposer des axes d’amélioration\n\nS’initier à la gestion de projet 'classique' (waterfall), en mettant l'accent ce semetsre sur le phase 'réalisation', se préper à la présentation orale.",
+						"contenu": "Initiation à la gestion de projet :\n\nLes principaux thèmes abordés dans l’enseignement GP sont les suivants :\n\n- Qu’est-ce qu’un projet ?\n\n- L’objectif et la raison d’être,\n\n- Les parties prenantes,\n\n- Les grandes étapes d’un projet,\n\n- L’organisation d’un projet,\n\n- Le planning (diagramme de Gantt),\n\n- Gérer les risques.\n\n\nTechnique de présentation :\n\nL’enseignement porte sur les bonnes pratiques de la présentation de projet :\n\n- Pertinence du choix des éléments présentés,\n\n- Répartition des rôles entre membres de l’équipe,\n\n- Equilibre des temps de parole,\n\n- Qualité des supports,\n\n- Qualité de la présentation orale",
+						"objectifs/situations": [
+							{
+								"obj": "Mettre en place une méthodologie de projet",
+								"sit": "Réalisation du projet"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Valider la conformité d’un projet",
+								"sit": "Organiser la recette du projet"
+							},
+							{
+								"obj": "Communiquer et présenter un projet",
+								"sit": "Participer au salon des projets, réaliser des affiches"
 							}
 						]
 					}
