@@ -1098,7 +1098,7 @@
 					},
 					{
 						"nom": "Techniques d’expression",
-						"semestre": 2,
+						"semestre": 1,
 						"coeff": 1.5,
 						"nb_heures": 15,
 						"repartition": [0, 0, 15, 0, 0, 0],
@@ -1320,7 +1320,7 @@
 					},
 					{
 						"nom": "LV2, FLE, anglais renforcé",
-						"semestre": 1,
+						"semestre": 2,
 						"coeff": 0,
 						"nb_heures": 15,
 						"repartition": [0, 0, 15, 0, 0, 0],
