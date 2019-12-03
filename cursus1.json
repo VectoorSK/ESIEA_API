@@ -543,7 +543,7 @@
 						"coeff": 0,
 						"nb_heures": 15,
 						"repartition": [0, 0, 15, 0, 0, 0],
-						"resume": "Langues : Allemand - Chinois - Espagnol - Japonais - Italien\n\n\n\n- Acquérir les compétences communicatives et interculturelles dans la langue choisie\n\n- Préparer des tests de niveau certifiants (TOEIC, Goethe Zertifikat, Cervantes, …)\n\n- Acquérir un niveau de maîtrise des structures grammaticales de la langue choisie permettant une communication simple mais non ambiguë",
+						"resume": "Langues : Allemand - Chinois - Espagnol - Japonais - Italien\n\n- Acquérir les compétences communicatives et interculturelles dans la langue choisie\n\n- Préparer des tests de niveau certifiants (TOEIC, Goethe Zertifikat, Cervantes, …)\n\n- Acquérir un niveau de maîtrise des structures grammaticales de la langue choisie permettant une communication simple mais non ambiguë",
 						"contenu": "A la discrétion de l’enseignant. Peut inclure :\n\n- Etude de textes d’actualité\n\n- Ecoute d’enregistrements audiovisuels\n\n- Expression orale sur des sujets personnels ou professionnels\n\n- Expression écrite sur des sujets personnels ou professionnels\n\n- Exercices de grammaire\n\n- Apprentissage de vocabulaire\n\n- Présentation d’exposés\n\n- Expression interactive/ débats",
 						"objectifs/situations": [
 							{
@@ -565,7 +565,7 @@
 						]
 					},
 					{
-						"nom": "APIC: Activité information-communication",
+						"nom": "Activité information-communication (APIC)",
 						"semestre": 1,
 						"coeff": 1,
 						"nb_heures": 4.5,
@@ -594,7 +594,7 @@
 						]
 					},
 					{
-						"nom": "Techniques d'expression 2",
+						"nom": "Techniques d'expression",
 						"semestre": 2,
 						"coeff": 3,
 						"nb_heures": 28.5,
@@ -633,7 +633,7 @@
 						]
 					},
 					{
-						"nom": "Anglais 2",
+						"nom": "Anglais",
 						"semestre": 2,
 						"coeff": 2,
 						"nb_heures": 21,
@@ -664,7 +664,34 @@
 						]
 					},
 					{
-						"nom": "APIC 2",
+						"nom": "LV2, FLE, anglais renforcé",
+						"semestre": 2,
+						"coeff": 0,
+						"nb_heures": 15,
+						"repartition": [0, 0, 15, 0, 0, 0],
+						"resume": "Langues : Allemand - Chinois - Espagnol - Japonais - Italien\n\n- Acquérir les compétences communicatives et interculturelles dans la langue choisie\n\n- Préparer des tests de niveau certifiants (TOEIC, Goethe Zertifikat, Cervantes, …)\n\n- Acquérir un niveau de maîtrise des structures grammaticales de la langue choisie permettant une communication simple mais non ambiguë",
+						"contenu": "A la discrétion de l’enseignant. Peut inclure :\n\n- Etude de textes d’actualité\n\n- Ecoute d’enregistrements audiovisuels\n\n- Expression orale sur des sujets personnels ou professionnels\n\n- Expression écrite sur des sujets personnels ou professionnels\n\n- Exercices de grammaire\n\n- Apprentissage de vocabulaire\n\n- Présentation d’exposés\n\n- Expression interactive/ débats",
+						"objectifs/situations": [
+							{
+								"obj": "Etre capable, à l’aide d’un dictionnaire, de comprendre des textes dans la langue cible.",
+								"sit": "Lecture de textes authentiques dans la langue cible, que cela soit en classe ou à la maison. Des textes peuvent également être publiés sur le Moodle ou envoyés par une plateforme d'apprentissage en ligne. A la discrétion de l'enseignant, certaines de ces lectures peuvent être accompagnées d'une évaluation de compréhension donnant lieu à une note."
+							},
+							{
+								"obj": "Etre capable, à l’aide d’un dictionnaire, d’écrire des textes compréhensibles dans la langue cible (email, CV, lettre de motivation...)",
+								"sit": "Rédaction de textes dans la langue cible, dans la langue cible, que cela soit en classe ou à la maison. A la discrétion de l'enseignant, certaines de ces rédactions peuvent donner lieu à une note."
+							},
+							{
+								"obj": "Etre capable de suivre une conversation ou un document audio-visuel bref, dans la langue cible.",
+								"sit": "Ecoute de documents authentiques dans la langue cible, que cela soit en classe ou à la maison. Des textes peuvent également être publiés sur le Moodle ou envoyés par une plateforme d'apprentissage en ligne. A la discrétion de l'enseignant, certaines de ces documents audio ou audio-visuel peuvent être accompagnés d'une évaluation de compréhension donnant lieu à une note."
+							},
+							{
+								"obj": "Etre capable de se faire comprendre dans la langue cible de façon non ambiguë",
+								"sit": ""
+							}
+						]
+					},
+					{
+						"nom": "Activité information-communication (APIC)",
 						"semestre": 2,
 						"coeff": 1,
 						"nb_heures": 4.5,
@@ -1055,165 +1082,278 @@
 				"ratio": 30,
 				"matières": [
 					{
-						"nom": "Projet de formation humaine",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nom": "Projet de Formation Humaine : Lancement",
+						"semestre": 1,
+						"coeff": 2,
+						"nb_heures": 15,
+						"repartition": [0, 0, 0, 0, 15, 0],
+						"resume": "Les projets de formation humaine de l'ESIEA sont des projets citoyens et responsables, ancrés dans le réel et le possible, novateurs, rationnels et humanistes. Ils permettent aux étudiants de réaliser sur une année un projet portant sur un domaine spécifique et de leur choix (création artistique, écologie, économie sociale et solidaire, vie associative...), de réfléchir à des problématiques nouvelles, d'agir dans des situations complexes (pro-activité) et de développer des compétences transversales. L'activité des projets de formation humaine permet de construire son projet personnel et professionnel.",
+						"contenu": "- Ateliers : méthodologie de la conduite de projet (les trois phases d'un projet, lancement, réalisation, transmission), méthodologie de la rédaction d'un rapport d'avant-projet (problématique, objectifs, plan d'action et de financement), méthodologie de la présentation orale d'un projet. Ateliers spécifiques : étude de faisabilité, plan de diffusion, les réponses du destinataire d'un projet artistique...\n\n- Conférences : autour d'une thématique choisie chaque année (2014-2015 : la métamorphose)... et sur des sujets de société : femmes et sciences, les actions de solidarité, le système ontophanique numérique...\n\n- Projet suivi par des professeurs, des anciens élèves de l'ESIEA, des acteurs du monde professionnel et associatif...\n\n- Réunions mentoring (1 à 2 fois par semestre) : bilan, avancement du projet, évaluation du porte-folio numérique, recommandation...\n\nL'activité des projets de formation humaine est axée principalement sur la communication en deuxième année.",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
+								"obj": "Lancer un projet",
+								"sit":"Analyser un environnement : faire le diagnostic externe (opportunités/menaces) et interne (forces/faiblesses) d’une situation. Mener une étude de faisabilité.\nFormuler une problématique et se donner des objectifs pour la résoudre. Les objectifs doivent être Spécifiques, Mesurables, Ambitieux, Réalistes, Temporels (SMART).\nPlanifier : établir un plan d’actions (savoir différencier « actions » et « objectifs ») et un plan de financement (à partir de la deuxième année).\nSe donner des objectifs personnels de progression."
 							}
 						]
 					},
 					{
-						"nom": "Techniques d’expression orales et écrites",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nom": "Techniques d’expression",
+						"semestre": 2,
+						"coeff": 1.5,
+						"nb_heures": 15,
+						"repartition": [0, 0, 15, 0, 0, 0],
+						"resume": "Le métier d’ingénieur nécessite des compétences multiples qui s’inscrivent au-delà du périmètre technique et scientifique.\n\nLors des modules de techniques d’expression vous serez amenés à exercer votre esprit critique et développer vos capacités d’analyse, de synthèse et d’expression nécessaires dans le cadre de vos activités professionnelles.\n\nDans la continuité du travail élaboré en L1, vous travaillerez en mode projet sur des sujets variés, à dimension culturelle et sociétale, qui vous permettront de soutenir et de développer vos compétences en communication.",
+						"contenu": "Plusieurs projets de groupe à réaliser sur l'année. Écrit comme oral. Dictées pour travail sur l'orthographe et règles de grammaire.",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Améliorer sa maîtrise de la langue française",
+								"sit": "Dictées, révisions de règles de grammaire et orthographe et exercices d’application. Travail du vocabulaire."
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Développer sa culture générale, sa curiosité et son esprit critique",
+								"sit": "Lecture d’un ouvrage (roman, nouvelles, essai) et analyse de celui-ci"
 							},
 							{
-								"obj": "",
-								"sit": ""
-							}
-						]
-					},
-					{
-						"nom": "Projet Scientifique et Technique : définition du projet",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
-						"objectifs/situations": [
-							{
-								"obj": "",
-								"sit": ""
+								"obj": "Rédiger un écrit bien structuré et argumenté",
+								"sit": "Etat de l’art, dissertation, présentation de rapports et projets d’entreprises ; Redaction de rapport de stage/projet en resctant un cahier des charges"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Synthétiser des sujets",
+								"sit": "Synthèse d’idées essentielles d’articles de journaux et d’ouvrage, puis formulation d’un avis critique"
 							},
 							{
-								"obj": "",
-								"sit": ""
-							}
-						]
-					},
-					{
-						"nom": "Projet professionnel",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
-						"objectifs/situations": [
-							{
-								"obj": "",
-								"sit": ""
+								"obj": "Adapter son discours à un public",
+								"sit": "Exercices ludiques sur la notion de « registre »"
 							},
 							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
+								"obj": "Développer sa créativité",
+								"sit": "Rédiger un écrit original et créatif – Atelier d’écriture"
 							}
 						]
 					},
 					{
 						"nom": "Anglais",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"semestre": 1,
+						"coeff": 2,
+						"nb_heures": 21,
+						"repartition": [0, 0, 21, 0, 0, 0],
+						"resume": "Through exposure to a wide variety of news reports from the print media, television and radio, students improve their reading and listening comprehension as well as enriching their vocabulary in many different subject areas. In teams of 8 to 10, students create their own news broadcasts, a project which involves intensive oral and written production with extensive feedback from the instructors. Students also produce a first CV and covering letter for the mission abroad.",
+						"contenu": "- The language of news reporting: presentation and practice\n\n- Reading news reports from the print media; watching news reports from television\n\n- Multiple writing assignments with instructor feedback\n\n- Work sessions on clear pronunciation of news reports\n\n- Writing a first CV: presentation of basic notions, practice and feedback\n\n- Writing a first covering letter: presentation of basic notions, practice and feedback",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Can recognise and use language on a wide range of topics within spoken exchanges.",
+								"sit": "Video lessons with teacher-developed comprehension exercises; student production (oral and written) following upon models provided."
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Speak comprehensibly for a short period of time on a clearly defined and limited topic",
+								"sit": "News Broadcast Project / Reading exercise in Lab"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Can produce a short non-ambiguous text on a clearly defined and limited topic.",
+								"sit": "News Broadcast Project"
 							}
 						]
 					},
 					{
 						"nom": "LV2, FLE, anglais renforcé",
-						"semestre": 0,
+						"semestre": 1,
 						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nb_heures": 15,
+						"repartition": [0, 0, 15, 0, 0, 0],
+						"resume": "- Acquérir les compétences communicatives et interculturelles dans la langue choisie\n\n- Préparer des tests de niveau certifiants (TOEIC, Goethe Zertifikat, Cervantes, …)\n\n- Acquérir un niveau de maîtrise des structures grammaticales de la langue choisie permettant une communication simple mais non ambiguë",
+						"contenu": "A la discrétion de l’enseignant. Peut inclure...\n\n- Etude de textes d’actualité\n\n- Ecoute d’enregistrements audiovisuels\n\n- Expression orale sur des sujets personnels ou professionnels\n\n- Expression écrite sur des sujets personnels ou professionnels\n\n- Exercices de grammaire\n\n- Apprentissage de vocabulaire\n\n- Présentation d’exposés\n\n- Expression interactive/ débats",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Etre capable, à l’aide d’un dictionnaire, de comprendre des textes dans la langue cible.",
+								"sit": "Lecture de textes authentiques dans la langue cible, que cela soit en classe ou à la maison. Des textes peuvent également être publiés sur le Moodle ou envoyés par une plateforme d'apprentissage en ligne. A la discrétion de l'enseignant, certaines de ces lectures peuvent être accompagnées d'une évaluation de compréhension donnant lieu à une note."
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Etre capable, à l’aide d’un dictionnaire, d’écrire des textes compréhensibles dans la langue cible (email, CV, lettre de motivation...)",
+								"sit": "Rédaction de textes dans la langue cible, dans la langue cible, que cela soit en classe ou à la maison. A la discrétion de l'enseignant, certaines de ces rédactions peuvent donner lieu à une note."
 							},
 							{
-								"obj": "",
+								"obj": "Etre capable de suivre une conversation ou un document audio-visuel bref, dans la langue cible.",
+								"sit": "Ecoute de documents authentiques dans la langue cible, que cela soit en classe ou à la maison. Des textes peuvent également être publiés sur le Moodle ou envoyés par une plateforme d'apprentissage en ligne. A la discrétion de l'enseignant, certaines de ces documents audio ou audio-visuel peuvent être accompagnés d'une évaluation de compréhension donnant lieu à une note."
+							},
+							{
+								"obj": "Etre capable de se faire comprendre dans la langue cible de façon non ambiguë",
 								"sit": ""
 							}
 						]
 					},
 					{
 						"nom": "Activité information-communication (APIC)",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"semestre": 1,
+						"coeff": 1,
+						"nb_heures": 4.5,
+						"repartition": [0, 4.5, 0, 0, 0, 0],
+						"resume": "Au cours de votre vie étudiante et professionnelle, vous serez amené à exercer vos talents de communicant. Que ce soit pour valoriser un projet associatif, convaincre un jury, faire un exposé devant vos professeurs, décrocher un stage puis un emploi, mener à bien une mission professionnelle, etc.\nVous aurez besoin de communiquer et d’être capable:\n\n- De promouvoir une idée, une réalisation ou un produit ;\n- De travailler en équipe, d’argumenter, de négocier pour arriver à un accord ;\n- D’informer et convaincre de multiples interlocuteurs dont certains, étrangers à votre univers et sa technicité.\n\nL'APIC (Actions de Promotion Information et Communication) est un des modules vous permettant de mieux communiquer. Il se fixe un triple objectif :\n\n1. Donner une vision d’ensemble, à la fois théorique et fonctionnelle des aspects liés à la communication persuasive, interpersonnelle et stratégique : construire un message et le délivrer au bon moment, renforcer son argumentation et savoir l’adapter à ses interlocuteurs pour un démultiplier l’impact.\n2. Mettre en pratique les connaissances acquises afin de contribuer à la notoriété et à la réputation de l’école lors des manifestations organisées par le service communication.\n3. Aider par des conseils pratiques, à la valorisation des actions des différentes associations de l’école et des projets pédagogiques réalisés par les étudiants (scientifiques ou de formation humaine)",
+						"contenu": "Notions abordées :\n\n- Approche théorique des techniques de communication.\n- Principes de base de la Programmation Neurolinguistique.\n- Modèle de la probabilité d’élaboration, pyramide de Maslow, théorie cognitiviste, les voies de la perception (émotionnelle et rationnelle).\n- Principes fondamentaux, méthodes et procédés de la rhétorique et de la communication persuasive : construction du discours rhétorique, facteurs qui augmentent la crédibilité, principes de formulation, lois de l’influence, etc.\n- La dimension non verbale de la communication : attitude, langage corporel et synchronisation.\n- Conseils pratiques et facteurs généraux intervenant dans les situations de communication d’un « esiearque ».\n\nEvaluation semestrielle :\n\nL’évaluation sera à la fois quantitative et qualitative (bonus/malus).\n- Assiduité et participation en cours (20%)\n- Actions de communication (80%)\n\nChaque étudiant devra réaliser au moins une action de communication par semestre au service de son école lui permettant de mettre en pratique les techniques et conseils donnés:\n\n- Présence au forum d’orientation de son lycée ou d’un lycée proche de son établissement ;\n- Intervention en classe dans un établissement scolaire pour présenter le métier d’ingénieur;\n- Participation aux journées portes ouvertes ou journées de concours ;\n- Participation active à l’un des salons ou l’école sera présente ;\n- Rédaction d’articles (correspondant communication), reportage photo ou vidéo, participation à la web team de l’école ;\n- Aide à l’organisation de tout événement engageant l’image de l’école organisé par la Direction de la Communication.",
+						"objectifs/situations": []
+					},
+					{
+						"nom": "Projet Scientifique et Technique : Définition du projet",
+						"semestre": 1,
+						"coeff": 2.5,
+						"nb_heures": 30,
+						"repartition": [13.5, 0, 0, 0, 15, 1.5],
+						"resume": "Mobiliser des connaissances entre les différentes disciplines.\n\nConcevoir un système simple : Définir, Modéliser, Simuler/tester, Valider le modèle sur un prototype, Expliquer le modèle, Comparer avec le réalisé, Proposer des axes d’amélioration\n\nS’initier à la gestion de projet « classique » (waterfall), en mettant l'accent ce semetsre sur le phase « avant-projet », se préper à la présentation orale",
+						"contenu": "Initiation à la gestion de projet :\n\nLes principaux thèmes abordés dans l’enseignement GP sont les suivants :\n\n- Qu’est-ce qu’un projet ?\n\n- L’objectif et la raison d’être,\n\n- Les parties prenantes,\n\n- Les grandes étapes d’un projet,\n\n- L’organisation d’un projet,\n\n- Le planning (diagramme de Gantt),\n\n- Gérer les risques.\n\n\nTechnique de présentation :\n\nL’enseignement porte sur les bonnes pratiques de la présentation de projet :\n\n- Pertinence du choix des éléments présentés,\n\n- Répartition des rôles entre membres de l’équipe,\n\n- Equilibre des temps de parole,\n\n- Qualité des supports,\n\n- Qualité de la présentation orale",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Problématiser et délimiter le sujet",
+								"sit": "Réalisation d'un document de cadrage du projet qui présente ce sur quoi porte le projet (le quoi ?)"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Identifier les problèmes à résoudre",
+								"sit": "Réalisation d’un document de cadrage du projet qui présente une décomposition pertinente et cohérente de la démarche de réalisation"
 							},
 							{
-								"obj": "",
+								"obj": "Réguler la dynamique de groupe,\nOrganiser le travail,\nTravailler en équipe",
+								"sit": "Organisation de réunions de suivis régulières permettant à l'équipe de rendre compte de l'avancement du projet, de la répartition des tâches entre les membres de l'équipe projet et des prochaines étapes."
+							}
+						]
+					},
+					{
+						"nom": "Projet de Formation Humaine : Réalisation",
+						"semestre": 2,
+						"coeff": 2,
+						"nb_heures": 21,
+						"repartition": [0, 0, 0, 0, 21, 0],
+						"resume": "Les projets de formation humaine de l'ESIEA sont des projets citoyens et responsables, ancrés dans le réel et le possible, novateurs, rationnels et humanistes. Ils permettent aux étudiants de réaliser sur une année un projet portant sur un domaine spécifique et de leur choix (création artistique, écologie, économie sociale et solidaire, vie associative...), de réfléchir à des problématiques nouvelles, d'agir dans des situations complexes (pro-activité) et de développer des compétences transversales. L'activité des projets de formation humaine permet de construire son projet personnel et professionnel.",
+						"contenu": "- Ateliers : méthodologie de la conduite de projet (les trois phases d'un projet, lancement, réalisation, transmission), méthodologie de la rédaction d'un rapport d'avant-projet (problématique, objectifs, plan d'action et de financement), méthodologie de la présentation orale d'un projet. Ateliers spécifiques : étude de faisabilité, plan de diffusion, les réponses du destinataire d'un projet artistique...\n\n- Conférences : autour d'une thématique choisie chaque année (2014-2015 : la métamorphose)... et sur des sujets de société : femmes et sciences, les actions de solidarité, le système ontophanique numérique...\n\n- Projet suivi par des professeurs, des anciens élèves de l'ESIEA, des acteurs du monde professionnel et associatif...\n\n- Réunions mentoring (1 à 2 fois par semestre) : bilan, avancement du projet, évaluation du porte-folio numérique, recommandation...\n\nL'activité des projets de formation humaine est axée principalement sur la communication en deuxième année.",
+						"objectifs/situations": [
+							{
+								"obj": "Réaliser son projet",
+								"sit": "Agir sur une période déterminée (un an, deux ans…), dans une situation complexe, résoudre des problèmes : être proactif…\n\nCommuniquer autour de son action (à l’écrit, à l’oral, en réunion…).\n\nEvaluer son action et mesurer l’atteinte de ses objectifs avec des indicateurs de performance adaptés et cohérents.\n\nTravailler en équipe. Porter la responsabilité d’une action collective. Exercer une responsabilité : responsable de projet, responsable de la logistique, responsable technique, responsable de la communication, responsable de la diffusion, responsable financier, responsable des partenariats, responsable de l’action internationale, responsable de l’action culturelle, responsable «Solidarités»…"
+							},
+							{
+								"obj": "Transmettre son projet",
+								"sit": "Synthétiser ses résultats, faire le bilan de son action (par rapport aux objectifs souhaités au moment du lancement du projet).Valoriser et transmettre son expérience (capitalisation des acquis d’apprentissage) : recruter d’éventuels repreneurs du projet, rédiger son C.V., construire son porte-folio"
+							}
+						]
+					},
+					{
+						"nom": "Projet Professionnel",
+						"semestre": 2,
+						"coeff": 1,
+						"nb_heures": 16.5,
+						"repartition": [0, 0, 16, 0, 0, 0, 4.5],
+						"resume": "",
+						"contenu": "Dans cet atelier, chaque étudiant est amené à se poser des questions sur ses traits de caractères et sur ses valeurs au travail. Il entame la rédaction de son livre de bord par le renseignement de son portefeuille de compétences.\n\nEn parallèle, il découvre le marché de l’emploi dans le numérique en France. Il sélectionne un ou deux métiers et réalise une interview d’un ingénieur en entreprise.",
+						"objectifs/situations": [
+							{
+								"obj": "Découvrir le marché",
+								"sit": "Présentation d’au moins une interview d’ingénieur réalisée en entreprise."
+							},
+							{
+								"obj": "Réfléchir à son projet professionnel",
+								"sit": "Présenter la cohérence entre ses valeurs, ses traits de caractères et ses compétences"
+							},
+							{
+								"obj": "Présenter son travail",
+								"sit": "Présenter à l'oral devant la classe"
+							}
+						]
+					},
+					{
+						"nom": "Techniques d'expression : Présentation orales",
+						"semestre": 2,
+						"coeff": 1,
+						"nb_heures": 13.5,
+						"repartition": [0, 0, 13.5, 0, 0, 0],
+						"resume": "Le métier d’ingénieur nécessite des compétences multiples qui s’inscrivent au-delà du périmètre technique et scientifique.\n\nLors des modules de techniques d’expression vous serez amenés à exercer votre esprit critique et développer vos capacités d’analyse, de synthèse et d’expression nécessaires dans le cadre de vos activités professionnelles.\n\nDans la continuité du travail élaboré en L1, vous travaillerez en mode projet sur des sujets variés, à dimension culturelle et sociétale, qui vous permettront de soutenir et de développer vos compétences en communication.",
+						"contenu": "- Créativité sur les trois axes de l’expression orale\n\n- Atelier d'Expression Physique et Vocale\n\nLa «Présence » :\nTravail sur l’« Etre » (Etre là, Etre soi-même, Etre « naturel »)\nL’impression faite sur Autrui (Bonne, mauvaise, Définitive, Irrationnelle)\n\nGagner en assurance et affirmation de Soi\n- Pratique de l'analyse critique orale\n- Initiation à l'Animation de Réunion",
+						"objectifs/situations": [
+							{
+								"obj": "(Se) Présenter dans des environnements multiples",
+								"sit": "Mises en situation ; Réalisation de clip vidéo"
+							},
+							{
+								"obj": "Mobiliser l’attention de son public",
+								"sit": "Improvisation, sketchs de théâtre, prises de parole courtes et préparées"
+							},
+							{
+								"obj": "Valoriser un travail / une personne en utilisant des supports variés",
+								"sit": "Présenter à l’oral un projet en utilisant des supports (visuels, écrits, sonores,…)"
+							},
+							{
+								"obj": "S'entrainer à soutenir un dossier / projet",
+								"sit": "Soutenance en groupe d’un projet en se conformant à un cahier des charges"
+							},
+							{
+								"obj": "Connaitre les règles de la rhétorique",
+								"sit": "Débats préparés en petits groupes"
+							},
+							{
+								"obj": "S’entrainer à l’argumentation",
+								"sit": "Débats contradictoires"
+							}
+						]
+					},
+					{
+						"nom": "Anglais et TOEIC",
+						"semestre": 2,
+						"coeff": 3,
+						"nb_heures": 21,
+						"repartition": [0, 0, 21, 0, 0, 0],
+						"resume": "Through the business start-up coursework and project, students acquire vocabulary from the business environment: human resources, organization charts, marketing, finance. This vocabulary is tested extensively on the TOEIC. In pairs, students invent a fictional start-up. They write up a business plan (practice in the use of professional written English) and present their project to a jury of potential investors (practice in professional presentation language, practice in the use of persuasive language). Continuous feedback on writing and speaking.",
+						"contenu": "The language of the world of work: entrepreneurship, organization chart, marketing, finance.\n\n- Trends in marketing\n\n- Reading articles on entrepreneurs and innovative companies from the print media; watching similar reports from television\n\n- Multiple writing assignments with instructor feedback\n\n- Preparation of a business plan\n\n- Preparation of a persuasive presentation",
+						"objectifs/situations": [
+							{
+								"obj": "Speak for 2 mins in a focused and precise way to explain and sell an idea, using pronunciation which is understandable to a non-French listener",
+								"sit": "After viewing several examples, production and performance of an Elevator Pitch"
+							},
+							{
+								"obj": "Understand spoken English in a specific targeted context (business start-up)",
+								"sit": "Videos accompanied by teacher-developed listening comprehension exercises (Dragon's Den)"
+							},
+							{
+								"obj": "Write clear understandable English in a formal style using precise terms from the world of work, for a specific purpose",
+								"sit": "Production of a written business plan as part of final evaluation"
+							},
+							{
+								"obj": "Present an idea before an audience, in detail using logical structure with clear pronunciation.",
 								"sit": ""
 							}
 						]
+					},
+					{
+						"nom": "LV2, FLE, anglais renforcé",
+						"semestre": 1,
+						"coeff": 0,
+						"nb_heures": 15,
+						"repartition": [0, 0, 15, 0, 0, 0],
+						"resume": "- Acquérir les compétences communicatives et interculturelles dans la langue choisie\n\n- Préparer des tests de niveau certifiants (TOEIC, Goethe Zertifikat, Cervantes, …)\n\n- Acquérir un niveau de maîtrise des structures grammaticales de la langue choisie permettant une communication simple mais non ambiguë",
+						"contenu": "A la discrétion de l’enseignant. Peut inclure...\n\n- Etude de textes d’actualité\n\n- Ecoute d’enregistrements audiovisuels\n\n- Expression orale sur des sujets personnels ou professionnels\n\n- Expression écrite sur des sujets personnels ou professionnels\n\n- Exercices de grammaire\n\n- Apprentissage de vocabulaire\n\n- Présentation d’exposés\n\n- Expression interactive/ débats",
+						"objectifs/situations": [
+							{
+								"obj": "Etre capable, à l’aide d’un dictionnaire, de comprendre des textes dans la langue cible.",
+								"sit": "Lecture de textes authentiques dans la langue cible, que cela soit en classe ou à la maison. Des textes peuvent également être publiés sur le Moodle ou envoyés par une plateforme d'apprentissage en ligne. A la discrétion de l'enseignant, certaines de ces lectures peuvent être accompagnées d'une évaluation de compréhension donnant lieu à une note."
+							},
+							{
+								"obj": "Etre capable, à l’aide d’un dictionnaire, d’écrire des textes compréhensibles dans la langue cible (email, CV, lettre de motivation...)",
+								"sit": "Rédaction de textes dans la langue cible, dans la langue cible, que cela soit en classe ou à la maison. A la discrétion de l'enseignant, certaines de ces rédactions peuvent donner lieu à une note."
+							},
+							{
+								"obj": "Etre capable de suivre une conversation ou un document audio-visuel bref, dans la langue cible.",
+								"sit": "Ecoute de documents authentiques dans la langue cible, que cela soit en classe ou à la maison. Des textes peuvent également être publiés sur le Moodle ou envoyés par une plateforme d'apprentissage en ligne. A la discrétion de l'enseignant, certaines de ces documents audio ou audio-visuel peuvent être accompagnés d'une évaluation de compréhension donnant lieu à une note."
+							},
+							{
+								"obj": "Etre capable de se faire comprendre dans la langue cible de façon non ambiguë",
+								"sit": ""
+							}
+						]
+					},
+					{
+						"nom": "Activité information-communication (APIC)",
+						"semestre": 2,
+						"coeff": 1,
+						"nb_heures": 4.5,
+						"repartition": [0, 4.5, 0, 0, 0, 0],
+						"resume": "Suite ou approfondissement des notions abordées au premier semestre",
+						"contenu": "",
+						"objectifs/situations": []
 					}
 				]
 			}
@@ -1844,20 +1984,7 @@
 						"repartition": [0, 0, 0, 0, 0, 0],
 						"resume": "",
 						"contenu": "",
-						"objectifs/situations": [
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							}
-						]
+						"objectifs/situations": []
 					}
 				]
 			}
