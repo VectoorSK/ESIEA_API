@@ -11,7 +11,7 @@
 						"semestre": 1,
 						"coeff": 3,
 						"nb_heures": 60,
-						"repartition": [0, 0, 0, 0, 0, 0],
+						"repartition": [10, 10, 10, 10, 10, 10],
 						"resume": "Apprendre à argumenter en s'appuyant sur un raisonnement logique formalisé. Introduire les opérations ensemblistes de base, les notions de relations binaires et d’applications entre ensembles. Introduire les concepts de base du dénombrement, de l’abalyse combinatoire et des probabilités discrètes. Pratiquer l’arithmétique dans l’ensemble des entiers relatifs et dans l’ensemble des polynômes à coefficients dans R ou dans C.",
 						"contenu": "Raisonnements logiques, dénombrement, analyse combinatoire, lois discrètes usuelles.\n\nIntroduire les opérations ensemblistes de base, les notions de relation binaires, applications, arithmétique et polynômes.\n\n Des exemples concrets seront présentés pour illustrer et/ou modéliser certaines situations liées aux concepts présentés.",
 						"objectifs/situations": [
