@@ -686,162 +686,242 @@
 				"matières": [
 					{
 						"nom": "Transformations géométriques",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"semestre": 1,
+						"coeff": 3,
+						"nb_heures": 54,
+						"repartition": [54, 0, 0, 0, 0, 0],
+						"resume": "Le module a pour objectif d’approfondir les notions d’algèbre linéaire et de les appliquer à la géométrie du plan et de l’espace. On poursuit le travail matriciel en introduisant le vocabulaire lié à la diagonalisation des matrices carrées. La classification des applications linéaires usuelles du plan et de l’espace, ainsi que leur représentation matricielle, sont données et utilisées : rotation, homothétie, projection, dilatation. Les notions relatives aux espaces vectoriels réels sont enrichies par les notions d’espaces euclidiens. Le vocabulaire relatif à l’orthogonalité est un attendu du module ; on montre notamment le caractère favorable de la diagonalisation dans une base orthonormée. On introduit également les notions relatives aux espaces affines.",
+						"contenu": "Le module a pour objectif d’approfondir les notions d’algèbre linéaire et de les appliquer à la géométrie du plan et de l’espace. On poursuit le travail matriciel en introduisant le vocabulaire lié à la diagonalisation des matrices carrées. La classification des applications linéaires usuelles du plan et de l’espace, ainsi que leur représentation matricielle, sont données et utilisées : rotation, homothétie, projection, dilatation. Les notions relatives aux espaces vectoriels réels sont enrichies par les notions d’espaces euclidiens. Le vocabulaire relatif à l’orthogonalité est un attendu du module ; on montre notamment le caractère favorable de la diagonalisation dans une base orthonormée. On introduit également les notions relatives aux espaces affines.",
 						"objectifs/situations": [
 							{
-								"obj": "",
+								"obj": "Modéliser à l’aide de transformations géométriques usuelles dans le plan et dans l’espace.",
+								"sit": "Connaître la représentation matricielle des transformations géométriques usuelles."
+							},
+							{
+								"obj": "Reconnaître une transformation géométrique à l’aide d’une analyse spectrale.",
+								"sit": "Déterminer le polynôme caractéristique d'une matrice carrée.\nDéterminer les éléments propres d'une matrice carrée.\nDiagonaliser une matrice."
+							},
+							{
+								"obj": "Reconnaître une transformation à partir de son écriture matricielle pour les transformations usuelles.",
+								"sit": "Reconnaître une transformation à partir de sa représentation matricielle. Utiliser les coordonnées homogènes."
+							},
+							{
+								"obj": "Étudier un système dynamique, discret ou continu.Connaître la richesse de l’utilisation de bases orthonormales.",
 								"sit": ""
 							},
 							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
+								"obj": "Connaître la richesse de l’utilisation de bases orthonormales.",
+								"sit": "Connaître la richesse de l’utilisation de bases orthonormales."
 							}
 						]
 					},
 					{
 						"nom": "Courbes et surfaces",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"semestre": 1,
+						"coeff": 3,
+						"nb_heures": 54,
+						"repartition": [0, 21, 22.5, 10.5, 0, 0],
+						"resume": "Ce cours est consacré à l'étude des fonctions de plusieurs variables.\n\nCe sont des fonctions définies sur Rn, ou une partie de R n, à valeurs dans R ou dans R p ; n et p désignant deux entiers naturels.\n\nComme pour les fonctions d'une variable réelle, nous chercherons à établir, pour ce type de fonctions, les concepts de continuité, de dérivabilité, d'intégrabilité.\n\nPour les fonctions de R2 dans R, nous visualiserons les graphes correspondant à des surfaces de R3 et qui peuvent modéliser des reliefs.\n\nNous parlerons de pente dans des directions données, comme le ferait un randonneur,de reliefs accidentés,que nous modéliserons à l'aide de concepts mathématiques tels que la continuité, les dérivées directionnelles et partielles, la différentiabilité.\n\nA cette fin, nous introduirons les outils qui nous permettrons de donner les définitions correspondantes.\n\nC'est l'objet du premier chapitre qui traite des distances et des normes sur Rn, et de façon plus générale de topologie : la notion fondamentale pour parler de continuité est celle de voisinage. Une fonction f est dite continue en un point a si les valeurs f(x) qu'elle prend pour des valeurs x voisines de a, sont voisines de f(a). Cette définition naturelle de la continuité pourra être déclinée d'une façon rigoureuse mathématique, si nous pouvons définir la notion de voisinage, qui fait appel à un outil de mesure : la distance. ",
+						"contenu": "Topologie de et Calcul différentiel :\n\n- Notion de normes et de distances; normes équivalentes ; notion de voisinage\n\n- Fonctions de Rn dans Rp, continuité, dérivées partielles\n\n- Fonctions différentiables et plan tangent\n\n- Fonctions de classe C2\n\n- Recherche d'extréma pour les fonctions de classe C2.",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Maitriser les outils mathématiques permettant de définir les notions de continuité et de convergence dans des ensembles généraux.",
+								"sit": "Calculer des distances dans un espace métrique ou dans un espace vectoriel normé.\n\nIdentifier les voisinages élémentaires d'un élément dans un espace métrique ou dans un espace vectoriel normé.\n\nVérifier qu'une application est une norme, une distance.\n\nComparer des normes, des voisinages.\n\nExprimer les notions de continuité et de convergences dans un espace métrique à l'aide de différents outils : distances, normes, voisinages.\n\nÉtudier la convergence d'une suite dans un espace métrique à l'aide de la distance choisie\n\nÉtudier la continuité d'une fonction dans un espace métrique à l'aide de la distance choisie."
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Etudier les variations d’une fonction de plusieurs variables réelles",
+								"sit": "Représenter des graphes de fonctions dans IR3 à l'aide de Mathematica\n\nIdentifier les graphes dans IR3 de fonctions usuelles\n\nIdentifier les graphes de fonctions continues/discontinues.\n\nProuver la continuité d'une fonction en un point de IRn\n\nProuver la discontinuité d'une fonction en un point de IRn\n\nCalculer des dérivées partielles\n\nReprésenter les fonctions partielles\n\nIllustrer la notion de dérivées partielles\n\nRechercher les lignes de plus grande pente"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Approximer une fonction de plusieurs variables réelles par un polynôme de degré 1 ou 2",
+								"sit": "Etudier la différentiabilité : Développer une fonction de plusieurs variables réelles à l’ordre 1 ou 2\n\nIllustrer la notion de différentiabilité dans IR3 en représentant les plans tangents à l'aide de Mathematica\n\nCalculer des valeurs approchées d’une fonction de plusieurs variables réelles"
+							},
+							{
+								"obj": "Rechercher les extrema d’une fonction de plusieurs variables réelles",
+								"sit": "Etudier la différentiabilité à l’ordre 2 : Développer une fonction de plusieurs variables réelles à l’ordre 2\n\nDéterminer les points critiques ou singuliers\n\nDéterminer la nature des points critiques – maximum, minimum ou point col – en utilisant la règle du Hessien."
 							}
 						]
 					},
 					{
-						"nom": "Séries, approximation et probabilités",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nom": "Algorithmique et programmation C",
+						"semestre": 1,
+						"coeff": 3,
+						"nb_heures": 45,
+						"repartition": [0, 18, 13.5, 13.5, 0, 0],
+						"resume": "L’objectif est de présenter à l‘étudiant les structures basées sur les listes et les arbres afin de résoudre un ensemble de problèmes basés sur la construction de tels objets tels que la recherche/insertion rapide dans un ensemble d’éléments triés, hiérarchiser des éléments …)",
+						"contenu": "Rappel sur les pointeurs et les tableaux\n\nPrésentation des structures de données et de l’allocation dynamique\n\nLes listes chaînées, piles et files\n\nLes arbres (N-aires, binaires, parcours en largeur / profondeur)\n\nLes arbres binaires de recherche et équilibrés (ABR et AVL, rotations, linéarisation, arborisation)",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Utiliser les pointeurs et l’allocation/désallocation dynamique",
+								"sit": "Détecter des erreurs dans l’utilisation des pointeurs (papier/crayon) – individuel.\n\nDévelopper un programme utilisant les pointeurs et l’allocation dynamique (machine) – binôme"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Utilisation des structures de données en C",
+								"sit": "Construire une structure en fonction du besoin.\n\nUtiliser les pointeurs de structures."
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Reconnaître les structures de données de liste et d’arbre.\n\nExpliquer ce qu’est une liste, un arbre.",
+								"sit": "Donner la définition d’une liste, pile ou d’une file.\n\nDonner la définition d’un arbre (N-aire, binaire).\n\nIdentifier une structure de données : reconnaître un ABR ou un AVL par exemple(papier/crayon) – individuel"
+							},
+							{
+								"obj": "Définir et utiliser une structure de données dynamique",
+								"sit": "Produire un code permettant de gérer des structures de données dynamiques dans une bibliothèque. (machine) – binôme"
+							},
+							{
+								"obj": "Implémenter des algorithmes basés sur les listes et les arbres",
+								"sit": "Insérer, rechercher, supprimer un élément dans une liste\n\nInsérer, rechercher un élément dans un arbre"
+							},
+							{
+								"obj": "Définir un arbre équilibré.\n\nEquilibrer un arbre binaire",
+								"sit": "Implémenter l’équilibrage d’un arbre binaire"
+							},
+							{
+								"obj": "Utiliser les pointeurs et l’allocation/désallocation dynamique",
+								"sit": "Détecter des erreurs dans l’utilisation des pointeurs (papier/crayon) – individuel.\n\nDévelopper un programme utilisant les pointeurs et l’allocation dynamique (machine) – binôme"
+							},
+							{
+								"obj": "Utilisation des structures de données en C",
+								"sit": "Construire une structure en fonction du besoin.\n\nUtiliser les pointeurs de structures."
 							}
 						]
 					},
 					{
-						"nom": "Algorithmique et programmation",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nom": "Travaux pratiques logiciel",
+						"semestre": 1,
+						"coeff": 2,
+						"nb_heures": 18,
+						"repartition": [0, 0, 0, 18, 0, 0],
+						"resume": "Programmation des connaissances et algorithmes acquis en cours magistral et en travaux dirigés.",
+						"contenu": "Réalisation de programmes en langage C correspondant au programme des cours de S1 :\n\n- Utilisation des pointeurs.\n- Mise en application des listes chainées.\n- Parcours d'arbres binaires\n- Algorithmes de recherche dans un AVL\n- Utilisation des fichiers\n\nExemple de TP proposés les années précédentes :\n\n- Gestion d’un serveur de tchat en liste chaînée, mémorisation d’un parcours de sortie de labyrinthe en liste chainées.\n- Intelligence artificielle de puissance 4 avec des arbres min-max ou alpha/beta.\n- Développement et factorisation d’expression arithmétiques avec une représentation en arbres.",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Mettre en pratique les notions vues en cours (INF2031)",
+								"sit": "Implémenter un projet complet à partir d’une base pour faciliter le développement ou en partant d’une feuille blanche en fonction du sujet à traiter\n\nSe baser sur un cas concret (exemple : jeu de plateau / IA, simulation, algorithme d’optimisation pour le rendu …) (machine)"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Créer le projet dans le cadre de l’environnement de développement. (machine)\n\nDéboguer en cours de développement en utilisant les outils mis à disposition. (machine)",
+								"sit": "Livrer un rendu suivant un cahier des charges"
 							},
 							{
-								"obj": "",
-								"sit": ""
-							}
-						]
-					},
-					{
-						"nom": "Algorithmique avancée",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
-						"objectifs/situations": [
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
-								"sit": ""
-							},
-							{
-								"obj": "",
+								"obj": "Rendre le projet sous un format spécifique avec une arborescence imposée dans un format prédéfini (ZIP par exemple).",
 								"sit": ""
 							}
 						]
 					},
 					{
 						"nom": "Mathématiques et cryptographie",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"semestre": 2,
+						"coeff": 2.5,
+						"nb_heures": 42,
+						"repartition": [0, 16.5, 16.5, 9, 0, 0],
+						"resume": "Ce module vise à acquérir les notions de base sur les groupes puis à les appliquer en cryptographie. Au travers des liens présentés entre l’algèbre et la cryptographie, l’étudiant est sensibilisé à la sécurité de l’information. Dans un premier temps, la théorie des groupes permet de formaliser plusieurs chiffrements historiques (par exemple les chiffrements de César, Vigenère, Vernam, les grilles tournantes de Fleissner ou enigma) ainsi que leurs familles (chiffrements mono/poly-alphabétique, par permutation, etc.). Ensuite, la cryptographie asymétrique est introduite avec les groupes cycliques et les anneaux. Les bases théoriques sont utilisées pour démontrer le fonctionnement du chiffrement RSA et de l’échange de clés de Diffie-Hellman.\n\nEnfin, une ouverture pourra être faite vers la cryptographie symétrique moderne, la signature électronique et les fonctions de hachage.",
+						"contenu": "- Notions générales sur les groupes : définitions, propriétés, sous-groupes, groupes quotients.\n\n- Sous-groupes de Z, étude des groupes Z/nZ. Application par exemple aux chiffrements de César, Vigenère et Vernam.\n\n- Morphismes de groupes, image, noyau, propriétés, groupes isomorphes, théorème d’isomorphisme.\n\n- Ordre d’un élément dans un groupe, notion de générateur, groupe monogène, groupe cyclique. Problème du logarithme discret et échange de clé de Diffie-Hellman.\n\n- Notions générales sur les anneaux : définitions, propriétés, sous-anneaux, idéaux, groupe des inversibles, corps.\n\n- Anneaux Z/nZ et chiffrement RSA. Formalisation possible du chiffrement de Hill ou des chiffrements affines par blocs. Ouverture possible sur la signature électronique avec RSA.\n\n- Théorème Chinois et résolution d'équation et système d'équation de congruence. Utilisation par exemple pour une cryptanalyse à clairs connus du chiffrement de Hill.\n\n- Corps finis Z/pZ et Fpn. Ouverture possible sur la cryptographie symétrique moderne ou sur les codes correcteurs.",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Reconnaître et décrire un groupe ou un sous-groupe.",
+								"sit": "Démontrer que G est un groupe. Démontrer que H est un sous-groupe de G.\n\nQCM pour déterminer si G est un groupe."
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Reconnaître et décrire un anneau, un sous-anneau, un idéal, un corps.",
+								"sit": "Démontrer que A est un anneau. Démontrer que B est un sous-anneau de A. Démontrer que I est un idéal.\n\nQCM pour déterminer si A est un anneau."
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Calculer dans un groupe quotient ou dans un anneau quotient.",
+								"sit": "Effectuer des calculs dans un quotient.\n\nConstruire et effectuer des calculs dans un corps fini si l’on fournit un polynôme irréductible.\n\nPeut être évalué indirectement avec la cryptographie."
+							},
+							{
+								"obj": "Découvrir l’utilité des morphismes ; les appliquer pour calculer dans un groupe ou dans un anneau.",
+								"sit": "Montrer qu’une application est un morphisme\n\nSimplifier un groupe en construisant un isomorphisme avec un groupe classique."
+							},
+							{
+								"obj": "Étudier puis comparer les chiffrements symétriques historiques. Évaluer leur sécurité avec la théorie des groupes.",
+								"sit": "Chiffrer/déchiffrer un message avec des systèmes historiques (César, Vigenère, etc.). Implémenter différents algorithmes de chiffrement et des cryptanalyses (analyse de fréquence, indice de coïncidence).\n\nÉtudier le groupe engendré par le chiffrement."
+							},
+							{
+								"obj": "Appliquer le chiffrement RSA et l’échange de clés DiffieHellman.",
+								"sit": "Appliquer RSA et Diffie-Hellman avec de petites valeurs sur papier."
 							}
 						]
 					},
 					{
-						"nom": "Travaux pratiques logiciel",
-						"semestre": 0,
-						"coeff": 0,
-						"nb_heures": 0,
-						"repartition": [0, 0, 0, 0, 0, 0],
-						"resume": "",
-						"contenu": "",
+						"nom": "Séries, approximation, probabilités",
+						"semestre": 2,
+						"coeff": 2.5,
+						"nb_heures": 42,
+						"repartition": [0, 21, 21, 0, 0, 0],
+						"resume": "Connaitre la notion de séries numériques, de séries de fonctions et de séries entières. Maîtrise des différentes notions de convergences. Savoir approximer les fonctions par des séries entières.\n\nLe premier chapitre est centré sur les techniques d’étude de nature de séries de nombres : elles permettent d’indiquer si une converge ou si elle diverge.\n\nLe calcul de la somme infinie de séries convergentes n’y est abordé que pour les cas les plus simples : séries géométriques, séries « télescopiques ».\n\nLe deuxième chapitre introduit la notion de suites de fonctions.\n\nLe troisième chapitre est consacré aux séries entières qui généralisent la notion de polynômes et s’appuient sur les développements de Taylor.\n\nLe dernier chapitre tratite quelques notions de probabilités et de l’utilisation du logiciel R",
+						"contenu": "Séries : Séries numériques : Convergence d'une suite et convergence d'une série. Relation entre la convergence absolue et la convergence d'une série.\n\n- Etude des séries de références. Séries à termes positifs : Majoration du terme général d'une série par le terme général d'une série de référence, recherche d'un équivalent du terme général, règle de d'Alembert & Règle de Riemann ; comparaison d'une série et d'une intégrale.\n\n- Pour les autres séries : Théorème des séries alternées ; développement limité du terme général\n\n- Suites de fonctions : Convergence simple, convergence uniforme ; la convergence uniforme implique la convergence simple.\n\n- Propriétés de la fonction limite : continuité, dérivation et intégration.\n\n- Rapide introduction aux séries de fonctions application aux séries entières : Rayon de convergence d'une série entière, règle de d'Alembert.\n\n- Développement en série entière des fonctions `usuelles`.\n\n- Sommation d' une série entière (en se ramenant aux fonctions de référence ou par la méthode de l'équation différentielle).\n\n- Couple de variables aléatoires discrètes finies : loi de probabilité d’un couple de variables aléatoires, lois marginales, indépendance de deux variables aléatoires, covariance et coefficient de corrélation linéaire, lois conditionnelles, espérance et variance conditionnelles\n\n- Approximation de la loi binomiale par la loi de Poisson, appproximation de la loi hypergéométrique par la loi binomiale, approximation de la loi binomiale par la loi normale",
 						"objectifs/situations": [
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Calculer des valeurs approchées de nombres ou de fonctions, en utilisant des séries et en estimant la précision de l’approximation",
+								"sit": "Expliquer la notion de convergence de séries numériques\n\nIdentifier les séries géométriques\n\nCaractériser les conditions de convergence des séries géométriques\n\nIndiquer si une série converge ou diverge en utilisant un outil approprié\n\nIdentifier le type de convergence de suites de fonctions\n\nDéterminer les domaines de convergences des séries entières\n\nCalculer les sommes de séries entières\n\nDévelopper des fonctions en série entière"
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Calculer des sommes de séries",
+								"sit": "Calculer la somme d’une série géométrique convergente\n\nCalculer les sommes de séries « télescopiques »\n\nLister les développements en série entière des fonctions usuelles."
 							},
 							{
-								"obj": "",
-								"sit": ""
+								"obj": "Connaître les approximations des lois de probabilité usuelles et utiliser l’outil informatique R",
+								"sit": "Savoir qu’il est possible d’approximer une loi par une autre loi"
+							}
+						]
+					},
+					{
+						"nom": "Algorithmique avancée",
+						"semestre": 2,
+						"coeff": 2.5,
+						"nb_heures": 45,
+						"repartition": [0, 18, 13.5, 13.5, 0, 0],
+						"resume": "L’objectif est de présenter les structures de données de type graphes afin de résoudre des problèmes axées sur la recherche du plus court chemin. Une présentation de quelques algorithmes de compression est également réalisée.",
+						"contenu": "Compression :\n\nIntroduction / Définitions\nCodage basé sur la longueur de séquence (RLE)\nCodage de Huffman\nCodage basé sur un dictionnaire (LZW)\n\nGraphes :\n\nDéfinitions.\nReprésentation d'un graphe en mémoire (Mémorisation matricielle, en table de listes d'adjacence)\nParcours en profondeur, en largeur.\nPlus court chemin (Dijkstra, Floyd) et ouverture sur d’autres algorithmes.",
+						"objectifs/situations": [
+							{
+								"obj": "Comprendre les concepts de la compression et reconnaître le type de compression utilisé",
+								"sit": "Savoir identifier les caractéristiques d’un mode de compression (exemple : ZIP, RAR, JPEG, MPEG, BMP/RLE, …) (papier/crayon)"
+							},
+							{
+								"obj": "Implémenter des algorithmes de compression",
+								"sit": "Développer un programme pour compresser/décompresser avec un des algorithmes vus en cours (RLE, Huffman, LZW) (machine)"
+							},
+							{
+								"obj": "Reconnaître les structures de données de graphe.\nExpliquer ce qu’est un graphe.\nModéliser un graphe pour l’exploiter par la suite dans un algorithme",
+								"sit": "Donner la définition d’un graphe (papier/crayon).\nIdentifier une structure de données de graphe. (papier/crayon).\nSavoir créer une structure de graphe à partir d’un schéma. (machine)"
+							},
+							{
+								"obj": "Implémenter des algorithmes basés sur les graphes",
+								"sit": "Implémenter les parcours en profondeur / largeur et des algorithmes de recherche du plus court chemin."
+							},
+							{
+								"obj": "Comprendre les concepts de la compression et reconnaître le type de compression utilisé",
+								"sit": "Savoir identifier les caractéristiques d’un mode de compression (exemple : ZIP, RAR, JPEG, MPEG, BMP/RLE, …) (papier/crayon)"
+							},
+							{
+								"obj": "Implémenter des algorithmes de compression",
+								"sit": "Développer un programme pour compresser/décompresser avec un des algorithmes vus en cours (RLE, Huffman, LZW) (machine)"
+							}
+						]
+					},
+					{
+						"nom": "Travaux pratiques logiciel (projet)",
+						"semestre": 2,
+						"coeff": 2.5,
+						"nb_heures": 18,
+						"repartition": [0, 0, 0, 18, 0, 0],
+						"resume": "L'objectif est une mise en d'application du module théorique INF2032 : programmation et algoritmique sur les sujets de la compression de données (sans perte) ainsi que les graphes. En langage C et/ou en Java. Selon qu'une introduction aux langages orienté objet ait été faite. Le TP est découpé en 2 livrables sur les 2 thématiques.",
+						"contenu": "- Réalisation en langage C d'algorithmes mettant en pratique les notions de compression de données vus en cours (INF2032) et en travaux dirigés\n\n- Réalisation d'applications en langage Java mettant en pratique les notions de programmation orientée objet vues en cours et en travaux dirigés.\n\n- Réalisation d'applications en langage Java relatives à la théorie des graphes.\n\n- Création de classes, de méthodes et d'interface permettant la gestion des graphes.\n\n- Ecriture d'algorithmes sur les graphes (plus cours chemin ou « page-rank »)",
+						"objectifs/situations": [
+							{
+								"obj": "Mettre en pratique les notions vues en cours (INF2031 & INF2032)",
+								"sit": "Implémenter un projet complet à partir d’une base pour faciliter le développement ou en partant d’une feuille blanche en fonction du sujet à traiter\n\nSe baser sur un cas concret (exemple : compression de données spécifique, résolution de problème avec les graphes, application des graphes à divers domaines : musique, électronique, …) (machine)"
+							},
+							{
+								"obj": "Exploiter les fonctionnalités de l’environnement de développement",
+								"sit": "Créer le projet dans l’environnement de développement.\nDéboguer en cours de développement en utilisant les outils mis à disposition. (machine)
+"
+							},
+							{
+								"obj": "Livrer un rendu suivant un cahier des charges",
+								"sit": "Rendre le projet sous un format spécifique avec une arborescence imposée dans un format prédéfini (ZIP par exemple)."
 							}
 						]
 					}
