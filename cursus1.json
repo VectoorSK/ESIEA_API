@@ -908,7 +908,7 @@
 						"nb_heures": 18,
 						"repartition": [0, 0, 0, 18, 0, 0],
 						"resume": "L'objectif est une mise en d'application du module théorique INF2032 : programmation et algoritmique sur les sujets de la compression de données (sans perte) ainsi que les graphes. En langage C et/ou en Java. Selon qu'une introduction aux langages orienté objet ait été faite. Le TP est découpé en 2 livrables sur les 2 thématiques.",
-						"contenu": "- Réalisation en langage C d'algorithmes mettant en pratique les notions de compression de données vus en cours (INF2032) et en travaux dirigés\n\n- Réalisation d'applications en langage Java mettant en pratique les notions de programmation orientée objet vues en cours et en travaux dirigés.\n\n- Réalisation d'applications en langage Java relatives à la théorie des graphes.\n\n- Création de classes, de méthodes et d'interface permettant la gestion des graphes.\n\n- Ecriture d'algorithmes sur les graphes (plus cours chemin ou « page-rank »)",
+						"contenu": "- Réalisation en langage C d'algorithmes mettant en pratique les notions de compression de données vus en cours (INF2032) et en travaux dirigés\n\n- Réalisation d'applications en langage Java mettant en pratique les notions de programmation orientée objet vues en cours et en travaux dirigés.\n\n- Réalisation d'applications en langage Java relatives à la théorie des graphes.\n\n- Création de classes, de méthodes et d'interface permettant la gestion des graphes.\n\n- Ecriture d'algorithmes sur les graphes (plus cours chemin ou 'page-rank')",
 						"objectifs/situations": [
 							{
 								"obj": "Mettre en pratique les notions vues en cours (INF2031 & INF2032)",
