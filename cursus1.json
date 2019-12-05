@@ -585,7 +585,7 @@
 						]
 					},
 					{
-						"nom": "Activité information-communication (APIC)",
+						"nom": "Activité information-communication : APIC",
 						"semestre": 1,
 						"coeff": 1,
 						"nb_heures": 4.5,
@@ -716,7 +716,7 @@
 						]
 					},
 					{
-						"nom": "Activité information-communication (APIC)",
+						"nom": "Activité information-communication : APIC",
 						"semestre": 2,
 						"coeff": 1,
 						"nb_heures": 4.5,
@@ -962,7 +962,7 @@
 						]
 					},
 					{
-						"nom": "Travaux pratiques logiciel (projet)",
+						"nom": "Travaux pratiques logiciel : projet",
 						"semestre": 2,
 						"coeff": 2.5,
 						"nb_heures": 18,
@@ -1140,7 +1140,7 @@
 					},
 					{
 						"nom": "Techniques d’expression",
-						"semestre": 2,
+						"semestre": 1,
 						"coeff": 1.5,
 						"nb_heures": 15,
 						"repartition": [0, 0, 15, 0, 0, 0],
@@ -1227,7 +1227,7 @@
 						]
 					},
 					{
-						"nom": "Activité information-communication (APIC)",
+						"nom": "Activité information-communication : APIC",
 						"semestre": 1,
 						"coeff": 1,
 						"nb_heures": 4.5,
@@ -1371,7 +1371,7 @@
 					},
 					{
 						"nom": "LV2, FLE, anglais renforcé",
-						"semestre": 1,
+						"semestre": 2,
 						"coeff": 0,
 						"nb_heures": 15,
 						"repartition": [0, 0, 15, 0, 0, 0],
@@ -1398,7 +1398,7 @@
 						]
 					},
 					{
-						"nom": "Activité information-communication (APIC)",
+						"nom": "Activité information-communication : APIC",
 						"semestre": 2,
 						"coeff": 1,
 						"nb_heures": 4.5,
@@ -1427,7 +1427,7 @@
 						"repartition": [21, 0, 0, 0, 0, 0],
 						"supports": [],
 						"resume": "Ce module présente les outils probabilistes de base qui, au-delà de leur importance et utilité intrinsèques, sont nécessaires à la compréhension du module de Statistiques du second semestre, dont les applications dans des domaines très divers sont nombreuses : Epidémiologie, Finances, Assurances, Informatique …\n\nLes éléments probabilistes ou (et) statistiques dispensés dans ce module peuvent aussi être utilisés par les étudiants pour agrémenter leurs projets intermédiaires ou de fin d’études, de traitements statistiques de données.\n\nLes outils contenus dans ce module sont également indispensables pour suivre convenablement plusieurs modules de 4A, dont : Processus stochastiques, Signaux aléatoires et Analyse des données et la data science en 5A",
-						"contenu": "1- Espaces probabilisés\n\n\n- Introduction et rappels\n\n- Expérience aléatoire\n\n- Evénements\n\n- Espace des épreuves\n\n- Langage des événements\n\n- Notion de probabilité\n\n- Espace probabilisé fini\n\n- Calcul d’une probabilité sur un espace probabilisable fini\n\n- Equiprobabilité\n\n- Espace probabilisé : cas général\n\n- Sigma-algèbre (ou Tribu) ;\n\n- Système complet d’événements\n\n\n2. Probabilités conditionnelles\n\n\n- Introduction\n\n- Probabilités conditionnelles\n\n- Formule des probabilités composées\n\n- Formule des probabilités totales\n\n- Formule de Bayes\n\n\n3. Indépendance en probabilité\n\n\n- Indépendance de deux événements\n\n- Indépendance d’une suite d’événements\n\n\n4. Généralités sur les variables aléatoires réelles\n\n\n- Définitions\n\n- Opérations\n\n- Fonction de répartition\n\n- Fonction génératrice\n\n\n5. Variables et vecteurs aléatoires discrets finis\n\n\nVariables aléatoires discrètes finis\n\n- Loi de probabilité d’une variable aléatoire réelle discrète finie\n\n- Fonction de répartition d’une variable aléatoire réelle discrète finie\n\n- Loi d’une fonction d’une variable aléatoire réelle discrète finie\n\n- Moments d’une variable aléatoire réelle discrète finie ; Espérance mathématique ; Variance et Ecart type.\n\n\nCouple de variables aléatoires discrètes finies\n\n\n- Loi de probabilité d’un couple de variables aléatoires réelles discrètes finies\n\n- Lois marginales\n\n- Indépendance de deux variables aléatoires réelles discrètes finies\n\n- Covariance et coefficient de corrélation linéaire\n\n- Lois conditionnelles ;\n\n- Espérance et variance conditionnelles\n\n\n6. Lois discrètes usuelles\n\n\nLois discrètes finies\n\n- Loi de Bernoulli\n\n- Loi binomiale\n\n- Loi hypergéométrique\n\n- Loi uniforme sur l’intervalle entier [1, n]\n\n\nLois discrètes infinies\n\n\n- Loi géométrique\n\n- Loi de Poisson\n\n\n7. Variables et vecteurs aléatoires réels continus\n\n\nVariables aléatoires réelles continues\n\n- Densité et fonction de répartition\n\n- Exemples de fonctions d’une v.a.r. à densité\n\n- Espérance mathématique\n\n- Variance et Ecart type\n\n- Densité d’une somme de deux v.a.r. continues indépendantes\n\n- Fonction génératrice\n\n- Fonction caractéristique\n\n\nVecteurs aléatoires réels continus\n\n\n- Couple de variables aléatoires réelles continues\n\n- Loi de probabilité d’un couple de variables aléatoires réelles continues\n\n- Lois marginales\n\n- Lois conditionnelles\n\n- Indépendance de deux variables aléatoires réelles\n\n- Covariance et coefficient de corrélation linéaire\n\n- Espérance et variance conditionnelles\n\n- Généralisation à un vecteur aléatoire de dimension n\n\n\n8. Lois continues usuelles\n\n\n- Loi normale\n\n- Loi du Khi 2\n\n- Loi de Fisher\n\n- Loi de Student\n\n\n9. Convergences\n\n\n- Inégalité de Bienaymé-Tchebychev\n\n- Loi faible des grands nombres\n\n- Convergence en loi et approximations\n\n- Théorème de la limite centrée\n\n- Approximation de la loi binomiale par la loi de Poisson\n\n- Approximation de la loi hypergéométrique par la loi binomiale\n\n- Approximation de la loi binomiale par la loi normale",
+						"contenu": "1- Espaces probabilisés\n\n- Introduction et rappels\n\n- Expérience aléatoire\n\n- Evénements\n\n- Espace des épreuves\n\n- Langage des événements\n\n- Notion de probabilité\n\n- Espace probabilisé fini\n\n- Calcul d’une probabilité sur un espace probabilisable fini\n\n- Equiprobabilité\n\n- Espace probabilisé : cas général\n\n- Sigma-algèbre (ou Tribu) ;\n\n- Système complet d’événements\n\n\n2. Probabilités conditionnelles\n\n- Introduction\n\n- Probabilités conditionnelles\n\n- Formule des probabilités composées\n\n- Formule des probabilités totales\n\n- Formule de Bayes\n\n\n3. Indépendance en probabilité\n\n- Indépendance de deux événements\n\n- Indépendance d’une suite d’événements\n\n\n4. Généralités sur les variables aléatoires réelles\n\n- Définitions\n\n- Opérations\n\n- Fonction de répartition\n\n- Fonction génératrice\n\n\n5. Variables et vecteurs aléatoires discrets finis\n\nVariables aléatoires discrètes finis\n- Loi de probabilité d’une variable aléatoire réelle discrète finie\n\n- Fonction de répartition d’une variable aléatoire réelle discrète finie\n\n- Loi d’une fonction d’une variable aléatoire réelle discrète finie\n\n- Moments d’une variable aléatoire réelle discrète finie ; Espérance mathématique ; Variance et Ecart type.\n\nCouple de variables aléatoires discrètes finies\n- Loi de probabilité d’un couple de variables aléatoires réelles discrètes finies\n\n- Lois marginales\n\n- Indépendance de deux variables aléatoires réelles discrètes finies\n\n- Covariance et coefficient de corrélation linéaire\n\n- Lois conditionnelles ;\n\n- Espérance et variance conditionnelles\n\n\n6. Lois discrètes usuelles\n\nLois discrètes finies\n- Loi de Bernoulli\n\n- Loi binomiale\n\n- Loi hypergéométrique\n\n- Loi uniforme sur l’intervalle entier [1, n]\n\n\nLois discrètes infinies\n- Loi géométrique\n\n- Loi de Poisson\n\n\n7. Variables et vecteurs aléatoires réels continus\n\nVariables aléatoires réelles continues\n- Densité et fonction de répartition\n\n- Exemples de fonctions d’une v.a.r. à densité\n\n- Espérance mathématique\n\n- Variance et Ecart type\n\n- Densité d’une somme de deux v.a.r. continues indépendantes\n\n- Fonction génératrice\n\n- Fonction caractéristique\n\nVecteurs aléatoires réels continus\n- Couple de variables aléatoires réelles continues\n\n- Loi de probabilité d’un couple de variables aléatoires réelles continues\n\n- Lois marginales\n\n- Lois conditionnelles\n\n- Indépendance de deux variables aléatoires réelles\n\n- Covariance et coefficient de corrélation linéaire\n\n- Espérance et variance conditionnelles\n\n- Généralisation à un vecteur aléatoire de dimension n\n\n\n8. Lois continues usuelles\n\n- Loi normale\n\n- Loi du Khi 2\n\n- Loi de Fisher\n\n- Loi de Student\n\n\n9. Convergences\n\n- Inégalité de Bienaymé-Tchebychev\n\n- Loi faible des grands nombres\n\n- Convergence en loi et approximations\n\n- Théorème de la limite centrée\n\n- Approximation de la loi binomiale par la loi de Poisson\n\n- Approximation de la loi hypergéométrique par la loi binomiale\n\n- Approximation de la loi binomiale par la loi normale",
 						"objectifs/situations": [
 							{
 								"obj": "Appréhender les concepts de la théorie des probabilités et des statistiques",
@@ -1496,7 +1496,7 @@
 						]
 					},
 					{
-						"nom": "Programmation orientée objet (POO)",
+						"nom": "Programmation orientée objet : POO",
 						"semestre": 1,
 						"coeff": 1.5,
 						"nb_heures": 24,
@@ -1981,7 +1981,7 @@
 						"repartition": [0, 18, 0, 0, 18, 0],
 						"supports": ["doc_papier", "web"],
 						"resume": "Physique atomique :\n- Essentiellement descriptif\n- Notions de Quantification, physique probabiliste\n\nPhysique Quantique :\n- Comprendre et savoir résoudre une équation de Schrödinger dans un cas simple (particule dans une boite)\n\nPhysique statistique :\n- Comprendre la différence entre les différentes distributions\n- Comprendre comment les propriétés des corps à l'échelle courante (macroscopique) s'expliquent à partir de leurs constituants microscopiques (atomes, molécules, ions)\n\nPhysique du Solide :\n- Comprendre la constitution et la réalisation d’un semi-conducteur\n- Via un travail de simulation envisagé pour le futur\n\nSynthèse du cours de physique de 3A :\n- Comprendre quelques applications technologiques du futur, basées sur les lois physiques étudiées dans le cours de physique de 3A.",
-						"contenu": "Thème 1. Physique atomique\n\n- Structure atomique : atome de Bohr, raies spectrales d'émission et absorption.\n\n- Nombres quantiques : quantification orbitale, spin, effet Zeeman, configuration électronique des atomes...\n\n- Dualité Onde-Corpuscule, longueur d'onde de Broglie, Expérience de Davisson et Germer\n\n- Relations d'Incertitude de Heisenberg.\n\n- Applications de la Physique atomique : étude d'un spectre lumineux, effet laser, introduction à la physique nucléaire...\n\n\nThème 2. Physique Quantique\n\n- Formalismes de la mécanique classique : Newton, Lagrange et Hamilton.\n\n- Outils mathématiques de la Mécanique quantique : Opérateurs quantiques, probabilités, fonctions de carré sommable\n\n- Équation d'évolution de Schrödinger : particule dans un potentiel stationnaire, puits de potentiel, barrière de potentiel\n\n- Étude des systèmes quantiques de base : oscillateur harmonique à un degré de liberté, atome d'hydrogène, particule confinée dans l'espace.\n\n- Applications de la Physique Quantique : effet Compton, effet Doppler, diffraction électronique, effet tunnel (microscope électronique), microscope à effet de champs...\n\nThème 3. Physique Statistique\n\n\n- Le monde microscopique\n\n- Caractères quantiques des particules. Énergies quantiques usuelles. Bosons et fermions\n\n- Introduction à la physique des grands ensembles : équilibre, états macroscopiques et microscopiques d’un système de N particules\n\nPostulats de la Physique Statistique.\n\n- Rappels de thermodynamique classique\n\n- Entropie statistique\n\nLa statistique de Maxwell Boltzmann\n\n- Hypothèses de bases de la statistique de Maxwell Boltzmann\n\n- Répartition à l’équilibre. Fonction de partition\n\n- Applications de la statistique de Maxwell Boltzmann : théorie cinétique des gaz, modèle simple de la pression atmosphérique, aimantation...\n\nLes Statistiques Quantiques\n\n- Hypothèses de bases des statistiques quantiques\n\n- La statistique de Bose Einstein\n\n- La statistique de Fermi Dirac\n\n- Statistique de Maxwell Boltzmann corrigée\n\nApplications des Statistiques Quantiques\n\n- Le rayonnement du Corps Noir\n\n- Interaction Onde Matière\n\n- LASER\n\n- Phonons\n\n- Conduction électronique\n\nThème 4. Physique du solide et des semi-conducteurs\n\n\nGénéralités sur les électrons dans les solides\n\nLes semi-conducteurs intrinsèques\n\n- Exemples courants : le Silicium et le Germanium...\n\n- Conduction dans les semi-conducteurs : courant d’électrons, courant de trous, densité d’électrons dans la bande de conduction, position du niveau de Fermi\n\nLes semi-conducteurs extrinsèques\n\n- Dopage P, dopage N\n\n- Niveau de Fermi\n\n- Relation d’action de masse\n\nApplication des propriétés semi-conductrices\n\n- La jonction PN\n\n- L’effet transistor\n\nLes phénomènes de transport dans les cristaux\n\n- Courant de conduction\n\n- Courant de diffusion\n\n- Lois de FICK\n\n- Effet HALL",
+						"contenu": "Thème 1. Physique atomique\n\n- Structure atomique : atome de Bohr, raies spectrales d'émission et absorption.\n\n- Nombres quantiques : quantification orbitale, spin, effet Zeeman, configuration électronique des atomes...\n\n- Dualité Onde-Corpuscule, longueur d'onde de Broglie, Expérience de Davisson et Germer\n\n- Relations d'Incertitude de Heisenberg.\n\n- Applications de la Physique atomique : étude d'un spectre lumineux, effet laser, introduction à la physique nucléaire...\n\n\nThème 2. Physique Quantique\n\n- Formalismes de la mécanique classique : Newton, Lagrange et Hamilton.\n\n- Outils mathématiques de la Mécanique quantique : Opérateurs quantiques, probabilités, fonctions de carré sommable\n\n- Équation d'évolution de Schrödinger : particule dans un potentiel stationnaire, puits de potentiel, barrière de potentiel\n\n- Étude des systèmes quantiques de base : oscillateur harmonique à un degré de liberté, atome d'hydrogène, particule confinée dans l'espace.\n\n- Applications de la Physique Quantique : effet Compton, effet Doppler, diffraction électronique, effet tunnel (microscope électronique), microscope à effet de champs...\n\n\nThème 3. Physique Statistique\n\n- Le monde microscopique\n\n- Caractères quantiques des particules. Énergies quantiques usuelles. Bosons et fermions\n\n- Introduction à la physique des grands ensembles : équilibre, états macroscopiques et microscopiques d’un système de N particules\n\nPostulats de la Physique Statistique.\n\n- Rappels de thermodynamique classique\n\n- Entropie statistique\n\nLa statistique de Maxwell Boltzmann\n\n- Hypothèses de bases de la statistique de Maxwell Boltzmann\n\n- Répartition à l’équilibre. Fonction de partition\n\n- Applications de la statistique de Maxwell Boltzmann : théorie cinétique des gaz, modèle simple de la pression atmosphérique, aimantation...\n\nLes Statistiques Quantiques\n\n- Hypothèses de bases des statistiques quantiques\n\n- La statistique de Bose Einstein\n\n- La statistique de Fermi Dirac\n\n- Statistique de Maxwell Boltzmann corrigée\n\nApplications des Statistiques Quantiques\n\n- Le rayonnement du Corps Noir\n\n- Interaction Onde Matière\n\n- LASER\n\n- Phonons\n\n- Conduction électronique\n\n\nThème 4. Physique du solide et des semi-conducteurs\n\nGénéralités sur les électrons dans les solides\n\nLes semi-conducteurs intrinsèques\n\n- Exemples courants : le Silicium et le Germanium...\n\n- Conduction dans les semi-conducteurs : courant d’électrons, courant de trous, densité d’électrons dans la bande de conduction, position du niveau de Fermi\n\nLes semi-conducteurs extrinsèques\n\n- Dopage P, dopage N\n\n- Niveau de Fermi\n\n- Relation d’action de masse\n\nApplication des propriétés semi-conductrices\n\n- La jonction PN\n\n- L’effet transistor\n\nLes phénomènes de transport dans les cristaux\n\n- Courant de conduction\n\n- Courant de diffusion\n\n- Lois de FICK\n\n- Effet HALL",
 						"objectifs/situations": [
 							{
 								"obj": "Partant de l’atome jusqu’à l’état solide, l’objectif principal de ce module est de montrer que le fonctionnement des différents types de composants de la microélectronique et des capteurs intégrés passent par la connaissance et la compréhension de phénomènes physiques, atomiques et quantiques, régissant les propriétés microscopiques de la matière.",
@@ -2111,7 +2111,7 @@
 						]
 					},
 					{
-						"nom": "Activité information-communication (APIC)",
+						"nom": "Activité information-communication : APIC",
 						"semestre": 1,
 						"coeff": 1,
 						"nb_heures": 4.5,
@@ -2133,7 +2133,7 @@
 						"objectifs/situations": []
 					},
 					{
-						"nom": "Projet Professionnel (et conférences métiers)",
+						"nom": "Projet Professionnel et conférences métiers",
 						"semestre": 2,
 						"coeff": 1.5,
 						"nb_heures": 30,
@@ -2237,7 +2237,7 @@
 						]
 					},
 					{
-						"nom": "Activité information-communication (APIC)",
+						"nom": "Activité information-communication : APIC",
 						"semestre": 2,
 						"coeff": 0.5,
 						"nb_heures": 4.5,
