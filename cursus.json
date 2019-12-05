@@ -1645,7 +1645,7 @@
 						"coeff": 1.5,
 						"nb_heures": 21,
 						"repartition": [0, 9, 15, 0, 0, 0],
-						"supports": ["doc_papier", "doc_numerique", "logiciel_R"],
+						"supports": ["doc_papier", "doc_numerique", "logiciel_r"],
 						"resume": "Ce module a pour but de savoir structurer et de représenter l’information contenue dans un jeu de données d’une part, et de savoir obtenir des renseignements (ou une modélisation) d’un certain caractère défini sur une population à l’aide de mesures effectuées sur un échantillon de cette population d’autre part.",
 						"contenu": "Rappel de statistique descriptive : caractéristiques de position, de dispersion et de forme.\n\nEstimation ponctuelle d’une moyenne ou d’une proportion ;\n\nEstimation par intervalle de confiance d’une moyenne ou d’une proportion ;\n\nComparaison de moyennes ou de proportions de deux populations indépendantes;\n\nTests du Khi-deux d’adéquation et d’indépendance;\n\nAjustement linéaire.\n\nRegression linéaire simple par MCO ( Moindres carrés ordinaires)\n\nANOVA (ANalysis Of VAriance)",
 						"objectifs/situations": [
